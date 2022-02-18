@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 135px;
+    margin: 139px 0 0 370px;
+}
+
+#buteco ul li {
+    width: 325px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4 {
+    margin-top: 460px;
+}
+
+.caixa5 {
+    margin-top: 460px;
+}
+
+.caixa6 {
+    margin-top: 485px;
+}
+
+.caixa7 {
+    margin-top: 990px;
+}
+
+.caixa8 {
+    margin-top: 965px;
+}
+
+.caixa9 {
+    margin-top: 990px;
+}
+
+.caixa10 {
+    margin-top: 1497px;
+}
+
+.caixa11 {
+    margin-top: 1470px;
+}
+
+#roda {
+   margin-top: 2040px;
+}

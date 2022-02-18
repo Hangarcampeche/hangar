@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 310px;
+    margin: 139px 0 0 250px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4 {
+    margin-top: 485px;
+}
+
+.caixa5 {
+    margin-top: 460px;
+}
+
+.caixa6 {
+    margin-top: 460px;
+}
+
+.caixa7 {
+    margin-top: 962px;
+}
+
+.caixa8 {
+    margin-top: 937px;
+}
+
+.caixa9 {
+    margin-top: 965px;
+}
+
+.caixa10 {
+    margin-top: 1465px;
+}
+
+.caixa11 {
+    margin-top: 1440px;
+}
+
+.caixa12 {
+    margin-top: 1468px;
+}
+
+.caixa13 {
+    margin-top: 1945px;
+}
+
+#roda {
+   margin-top: 2465px;
+}

@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+h1 {
+    color: #ADFF2F;
+    width: 200px;
+    margin: 139px 0 0 339px;
+}
+
+h3 {
+    background-color: #ADFF2F;
+    color: black;
+}
+
+#buteco ul li {
+    width: 325px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: 85px;
+}
+
+.caixa4, .caixa6 {
+    margin-top: 521px;
+}
+
+.caixa5 {
+    margin-top: 548px;
+}
+
+.caixa7 {
+    margin-top: 985px;
+}
+
+.caixa8 {
+    margin-top: 985px;
+}
+
+.caixa9 {
+    margin-top: 957px;
+}
+
+.caixa10 {
+    margin-top: 1397px;
+}
+
+.caixa11 {
+    margin-top: 1397px;
+}
+
+.caixa12 {
+    margin-top: 1420px;
+}
+
+.caixa13 {
+    margin-top:  1835px;
+}
+
+.caixa14 {
+    margin-top:  1835px;
+}
+
+.caixa15 {
+    margin-top:  1856px;
+}
+
+#de {
+    background: #ADFF2F;
+}
+
+#roda {
+    margin-top: 2333px;
+}
+

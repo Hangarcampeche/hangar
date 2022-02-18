@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+}
+
+#submenu {
+    position: relative;
+    background-color: #FFA500;
+    width: 500px;
+    height: 60px;
+    box-shadow: 0 0 2px 0 black;
+    border-radius: 17px 0px 17px 0px;
+    margin: 80px auto;
+}
+
+#submenu a, #submenu li {
+    position: relative;
+    left: -9px;
+    top: 10px;
+    color: black; 
+    display: block;
+    font-size: 18px;
+    font-family: helvetica;
+    padding: 0 4px 0 4px;
+}
+
+#submenu a:hover {
+    color: white;
+    text-decoration: underline; 
+}
+
+.caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .caixa16, .caixa19, .caixa22, .caixa25, .caixa28, .caixa31, .caixa34, .caixa37, .caixa40 {
+    margin-left: 36px;
+    width: 300px;
+}
+
+.caixa2, .caixa5, .caixa8, .caixa11, .caixa14, .caixa17, .caixa20, .caixa23, .caixa26, .caixa29, .caixa32, .caixa35, .caixa38, .caixa41 {
+    margin-left: 362px;
+    width: 300px;
+}
+
+.caixa3, .caixa6, .caixa9, .caixa12, .caixa15, .caixa18, .caixa21, .caixa24, .caixa27, .caixa30, .caixa33, .caixa36, .caixa39, .caixa42 {
+    margin-left: 687px;
+    width: 300px;
+}
+
+#buteco p  {
+    position: relative;
+    margin: 8px 35px 0 35px;
+}
+
+#preço p {
+    position: relative;
+    font-size: 18px;
+    letter-spacing: .070em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #A61407;
+    margin: 40px 0 0 53px;
+}
+
+h3 {
+    margin: 295px 0 0 25px;
+    color: black;
+    background-color: #FFA500;
+}
+
+#de {
+    background: #FFA500;
+    margin-top: 312px;
+}
+
+#preço1 p {
+    position: absolute;
+    font-size: 18px;
+    letter-spacing: .070em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #0d730d;
+    margin: -27px 0 0 172px;
+}
+
+#img5 img, #img6 img{
+    position: absolute;
+    margin-top: 20px;
+}
+
+#img5 img {
+    margin-left: 60px;
+}
+
+#img6 img {
+    margin-left: 190px;
+}

@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 190px;
+    margin: 139px 0 0 320px;
+}
+
+#submenu {
+	width: 635px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4, .caixa5 {
+    margin-top: 435px;
+}
+
+.caixa6 {
+    margin-top: 486px;
+}
+
+.caixa7 {
+   margin-top: 965px;
+}
+
+.caixa8 {
+   margin-top: 1068px;
+}
+
+.caixa9 {
+   margin-top: 1147px;
+}
+
+.caixa10 {
+    margin-top: 1600px;
+}
+
+#roda {
+   margin-top: 2280px;
+}

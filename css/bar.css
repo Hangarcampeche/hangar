@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+h1 {
+    color: red;
+    width: 565px;
+    margin: 139px 0 0 89px;
+}
+
+h3 {
+    background-color: #A61407;
+     color: white;
+}
+
+
+h2 {
+    position: relative;
+    font-family: 'Droid Serif', serif;
+    font-size: 42px;
+    color: #808080;
+}
+
+.sub {
+    position: relative;
+    margin: 90px 0 0 100px;   
+}
+
+.sub2 {
+    position: relative;
+    margin: 970px 0 0 100px;   
+}
+
+.sub3 {
+    position: relative;
+    margin: 1000px 0 0 100px;   
+}
+
+#dee {
+    background-color: #A61407;
+    margin-top: 312px;
+    position: absolute;
+    width: 400px;
+    height: 7px;
+}
+
+#de {
+    background-color: #A61407;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa7, .caixa8, .caixa9, .caixa13, .caixa14, .caixa15 {
+    margin-top: -10px;
+}
+
+.caixa4, .caixa5, .caixa6, .caixa16, .caixa17, .caixa18 {
+    margin-top: 427px;
+}
+
+.caixa10, .caixa11 {
+    margin-top: 460px;
+}
+
+.caixa12 {
+    margin-top: 435px;
+}
+
+#roda {
+    margin-top: 930px;
+}
+

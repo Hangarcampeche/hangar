@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 250px;
+    margin: 139px 0 0 280px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4, .caixa5, .caixa6 {
+    margin-top: 490px;
+}
+
+.caixa7, .caixa8, .caixa9 {
+    margin-top: 1025px;
+}
+
+.caixa10, .caixa11, .caixa12 {
+    margin-top: 1555px;
+}
+
+.caixa13, .caixa14, .caixa15 {
+    margin-top: 2085px;
+}
+
+.caixa16, .caixa17, .caixa18 {
+    margin-top: 2615px;
+}
+
+.caixa19, .caixa20, .caixa21 {
+    margin-top: 3145px;
+}
+
+.caixa22, .caixa23, .caixa24 {
+    margin-top: 3675px;
+}
+
+.caixa25, .caixa26, .caixa27 {
+    margin-top: 4205px;
+}
+
+.caixa28, .caixa29, .caixa30 {
+    margin-top: 4735px;
+}
+
+.caixa31, .caixa32, .caixa33 {
+    margin-top: 5265px;
+}
+
+.caixa34, .caixa35, .caixa36 {
+    margin-top: 5795px;
+}
+
+.caixa37, .caixa38, .caixa39 {
+    margin-top: 6325px;
+}
+
+.caixa40, .caixa41, .caixa42 {
+    margin-top: 6855px;
+}
+
+#roda {
+   margin-top: 7425px;
+}

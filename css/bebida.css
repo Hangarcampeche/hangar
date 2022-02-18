@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 235px;
+    margin: 139px 0 0 300px;
+}
+
+h3 {
+    background-color: #FFA500;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4 {
+    margin-top: 460px;
+}
+
+.caixa5 {
+    margin-top: 460px;
+}
+
+.caixa6 {
+    margin-top: 487px;
+}
+
+.caixa7 {
+    margin-top: 1045px;
+}
+
+.caixa8 {
+    margin-top: 1045px;
+}
+
+.caixa9 {
+    margin-top: 1070px;
+}
+
+.caixa10 {
+    margin-top: 1525px;
+}
+
+.caixa11 {
+    margin-top: 1525px;
+}
+
+.caixa12 {
+    margin-top: 1600px;
+}
+
+.caixa13 {
+    margin-top: 2055px;
+}
+
+.caixa14 {
+    margin-top: 2030px;
+}
+
+.caixa15 {
+    margin-top: 2105px;
+}
+
+#roda {
+   margin-top: 2700px;
+}

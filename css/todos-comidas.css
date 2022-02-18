@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+h3 {
+    margin: 205px 0 0 25px;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36 {
+    position: relative;
+    width: 325px;
+}
+
+.caixa2, .caixa5, .caixa8, .caixa11, .caixa14, .caixa17, .caixa20, .caixa23, .caixa26, .caixa29, .caixa32, .caixa35 {
+    margin-left: 345px;
+}
+
+.caixa3, .caixa6, .caixa9, .caixa12, .caixa15, .caixa18, .caixa21, .caixa24, .caixa27, .caixa30, .caixa33, .caixa36 {
+    margin-left: 690px;
+}
+
+#buteco p  {
+    position: relative;
+    margin: 17px 30px 0 30px;
+}
+
+#preço p, #preço1 p, #preço2 p, #preço3 p, #preço4 p, #preço5 p {
+    position: relative;
+    font-size: 18px;
+    letter-spacing: .070em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+#preço2 p, #preço3 p {
+    text-decoration: line-through;
+}
+
+#preço p, #preço2 p, #preço4 p  {
+    color: #A61407;
+    margin-top: 40px;
+}
+
+#preço1 p, #preço3 p, #preço5 p {
+    color: #0d730d;
+    margin: -26px 0 0 150px;
+}
+
+#preço4 p {
+    margin-top: 7px;
+}
+
+#preço5 p {
+    margin-top: -27px;
+}
+
+#de {
+    margin-top: 220px;
+}

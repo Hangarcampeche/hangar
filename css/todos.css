@@ -1,0 +1,237 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    background-color: #dcdcdc;
+    padding: 0;
+}
+
+#site {
+    width: 1100px;
+    margin: -39px auto;
+}
+
+#menu {
+   position: relative;
+   width: 100%;
+   height: 42px;
+   box-shadow: 0 0 3px  black;
+   background-color: #A61407;
+}
+        
+nav ul {
+   position: relative;
+   width: 1100px;
+   margin: 0px auto;
+}
+
+nav li {
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+nav li a, nav li #Menu {
+    position: relative;
+    left: 273px;
+    color: #FFFFFF; 
+    display: block;
+    letter-spacing: .092em;
+    font-size: 18px;
+    font-family: helvetica;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav li a:hover {
+    color: #dcdcdc;
+}
+
+nav li #Menu:hover  {
+    color: #ADFF2F;
+}
+
+h1 {
+    position: relative;
+    margin-top: 115px;
+    font-size: 60px;
+    height: 60px;
+    padding: 9px 5px 25px 25px; 
+    border-radius: 27px 0 27px 0;
+    background-color: white;
+    font-family: 'Fjalla One', sans-serif;
+    letter-spacing: .092em;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    box-shadow: 0 0 1px 0 black;
+}
+
+.caixa1:hover, .caixa2:hover, .caixa3:hover, .caixa4:hover, .caixa5:hover, .caixa6:hover, .caixa7:hover, .caixa8:hover,.caixa9:hover, .caixa10:hover, .caixa11:hover, .caixa12:hover, .caixa13:hover, .caixa14:hover, .caixa15:hover, .caixa16:hover, .caixa17:hover, .caixa18:hover, .caixa19:hover, .caixa20:hover, .caixa21:hover, .caixa22:hover, .caixa23:hover, .caixa24:hover, .caixa25:hover, .caixa26:hover, .caixa27:hover, .caixa28:hover,.caixa29:hover, .caixa30:hover, .caixa31:hover, .caixa32:hover, .caixa33:hover, .caixa34:hover, .caixa35:hover, .caixa36:hover, .caixa37:hover, .caixa38:hover, .caixa39:hover, .caixa40:hover, .caixa41:hover {
+    background-color: #dbead5;
+}
+
+#img img {
+    position: absolute;
+    margin: -135px 0 0 799px;
+}
+
+#buteco ul li {
+    position: absolute;
+    padding: 0 0 25px 0;
+    background-color: white;
+    box-shadow: 0 0 2px  black;
+    border-radius: 16px 0 16px 0;
+    list-style: none;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+#buteco p {
+    position: relative;
+    font-size: 17.5px;
+    letter-spacing: .040em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #2c2c2c;
+}
+
+h3 {
+    position: absolute;
+    font-family: 'Helvetica', serif;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
+}
+
+#de {
+    position: absolute;
+    width: 400px;
+    height: 7px;
+}
+
+#preço1 p {
+    position: absolute;
+    font-size: 18px;
+    letter-spacing: .070em;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #0d730d;
+    margin: -26px 0 0 150px;
+}
+
+#roda {
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    background-color: #A61407;
+}
+
+footer {
+    position: relative;
+    width: 1100px;
+    margin: auto;
+}
+
+h4 {
+    position: relative;
+    font-family: Verdana;
+    line-height: 1.50;
+    font-weight: 700;
+    letter-spacing: .092em;
+    font-size: 35px;
+    margin-left:  350px;
+    margin-top: 33px;
+}
+
+h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2 a, #sobre2 a, #site1 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
+    color: white;
+}
+
+#texto {
+    position: relative;
+    margin: -14px 0 0 117px; 
+    padding: 0 70px 0 0;
+    position: relative;
+    font-family: arial;
+    line-height: 1.50;
+    letter-spacing: .092em;
+    font-size: 19px;
+    color: white;
+}  
+        
+#img1 {
+    position: relative;
+    margin: 129px 0 0 147px;
+}       
+      
+#rua {
+    position: relative;
+    font-family: arial;
+    line-height: 1.50;
+    letter-spacing: .092em;
+}
+
+#rua {
+    font-size: 18px;
+    margin: 10px 0 0 383px;
+}
+
+h5 {   
+    position: relative;
+    font-family: verdana;
+    line-height: 1.50;
+    font-weight: 700;
+    letter-spacing: .092em;
+    font-size: 23px;
+    margin: -70px 0 0 238px;
+}   
+
+#sobre, #site1, #bar1, #social {
+    position: relative;
+    font-family: verdana;
+    line-height: 1.50;
+    font-weight: 700;
+    letter-spacing: .092em;
+    font-size: 19px;
+}
+
+#img2 img, #img3 img, #img4 img {
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 0 black;
+}
+
+#img2 img {
+    margin: 20px 0 0 440px;
+}
+
+#img3 img {
+    margin: 20px 0 0 505px;
+}
+
+#img4 img {
+    margin: 20px 0 0 605px;
+}
+
+#sobre1, #sobre2, #site2, #site3, #site4, #site5, #site6, #bar2, #bar3, #bar4, #bar5, #social1, #social2, #social3 {
+    list-style: none;
+    font-family: arial;
+    line-height: 1.50;
+    letter-spacing: .092em;
+    width: 130px;
+}
+
+#sobre1:hover, #sobre2:hover, #site2:hover, #site3:hover, #site4:hover, #site5:hover, #site6:hover, #bar2:hover, #bar3:hover, #bar4:hover, #bar5:hover, #social1:hover, #social2:hover, #social3:hover {
+   opacity: 0.65;
+}
+
+#sobre1 a, #sobre2 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
+   text-decoration: none;
+
+}
+
+#sobre2, #site3, #site4, #site5, #site6, #bar3, #bar4, #bar5, #social2, #social3 {
+    margin-top: -10px;
+}

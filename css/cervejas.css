@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+h1 {
+    width: 228px;
+    margin: 139px 0 0 326px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: -45px;
+}
+
+.caixa4, .caixa5, .caixa6 {
+    margin-top: 540px;
+}
+
+.caixa7, .caixa8 {
+    margin-top: 1205px;
+}
+
+.caixa9 {
+    margin-top: 1125px;
+}
+
+.caixa10 {
+    margin-top: 1787px;
+}
+
+.caixa11 {
+    margin-top: 1895px;
+}
+
+.caixa12 {
+    margin-top: 1760px;
+}
+
+.caixa13 {
+    margin-top: 2555px;
+}
+
+.caixa14 {
+    margin-top: 2530px;
+}
+
+#sanduba p  {
+    padding-top: 40px;
+}
+
+#roda {
+    margin-top: 3335px;
+}
