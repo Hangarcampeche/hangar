@@ -77,14 +77,13 @@ h1 {
 }
 
 #buteco ul li {
-    position: relative;
+    position: absolute;
     padding: 0 0 25px 0;
     background-color: white;
     box-shadow: 0 0 2px  black;
     border-radius: 16px 0 16px 0;
     list-style: none;
     overflow: hidden;
-    max-width: 100%;
 }
 
 #buteco p {
