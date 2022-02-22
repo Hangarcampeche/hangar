@@ -13,7 +13,7 @@ h3 {
 
 
 h2 {
-    position: relative;
+    position: absolute;
     font-family: 'Droid Serif', serif;
     font-size: 42px;
     color: #808080;
