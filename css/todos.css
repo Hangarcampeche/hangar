@@ -7,7 +7,7 @@ body {
 }
 
 #site {
-    width: 100%;
+    width: 1100px;
     margin: -39px auto;
 }
 
@@ -130,7 +130,7 @@ h3 {
 
 footer {
     position: relative;
-    width: 100%;
+    width: 1100px;
     margin: auto;
 }
 
