@@ -84,6 +84,7 @@ h1 {
     border-radius: 16px 0 16px 0;
     list-style: none;
     overflow: hidden;
+    max-width: 100%;
 }
 
 #buteco p {
