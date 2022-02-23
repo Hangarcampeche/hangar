@@ -3,11 +3,11 @@
 body {
     margin: 0;
     background-color: #dcdcdc;
-    padding: 0;
+    padding: 0 20px 0 20px;
 }
 
 #site {
-    width: 100%;
+    width: 1100px;
     margin: -39px auto;
 }
 
