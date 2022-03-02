@@ -7,7 +7,7 @@ body {
 }
 
 #site {
-    width: 1300px;
+    width: 1100px;
     margin: -39px auto;
 }
 
@@ -21,7 +21,7 @@ body {
         
 nav ul {
    position: relative;
-   width: 1300px;
+   width: 1100px;
    margin: 0px auto;
 }
 
@@ -130,7 +130,7 @@ h3 {
 
 footer {
     position: relative;
-    width: 1300px;
+    width: 1100px;
     margin: auto;
 }
 
