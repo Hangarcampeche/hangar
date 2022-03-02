@@ -143,6 +143,7 @@ h4 {
     font-size: 35px;
     margin-left:  350px;
     margin-top: 33px;
+    padding: auto;
 }
 
 h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2 a, #sobre2 a, #site1 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
@@ -151,8 +152,7 @@ h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2
 
 #texto {
     position: relative;
-    margin: -14px 0 0 117px; 
-    padding: 0 70px 0 0;
+    margin: -14px 70px 0 117px; 
     position: relative;
     font-family: arial;
     line-height: 1.50;
