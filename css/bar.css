@@ -21,7 +21,8 @@ h2 {
 
 .sub {
     position: relative;
-    margin: 90px 0 0 100px;   
+    margin: 90px 0 0 100px; 
+    padding: 0 400px 0 0;  
 }
 
 .sub2 {
