@@ -29,7 +29,7 @@ h3 {
     position: relative;
     left: -9px;
     top: 10px;
-    color: black; 
+    color: white; 
     display: block;
     font-size: 18px;
     font-family: helvetica;
@@ -37,7 +37,7 @@ h3 {
 }
 
 #submenu a:hover {
-    color: white;
+    color: gray;
     text-decoration: underline; 
 }
 
