@@ -6,38 +6,26 @@ h1 {
     margin: 139px 0 0 320px;
 }
 
-#submenu {
-	width: 635px;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 25px;
 }
 
-.caixa1, .caixa2, .caixa3 {
-    margin-top: -45px;
+.caixa5, .caixa6 {
+    margin-top: 495px;
 }
 
-.caixa4, .caixa5 {
-    margin-top: 435px;
-}
-
-.caixa6 {
-    margin-top: 486px;
-}
-
-.caixa7 {
-   margin-top: 965px;
-}
-
-.caixa8 {
-   margin-top: 1068px;
+.caixa7, .caixa8 {
+    margin-top: 573px;
 }
 
 .caixa9 {
-   margin-top: 1147px;
+   margin-top: 1093px;
 }
 
 .caixa10 {
-    margin-top: 1600px;
+    margin-top: 1040px;
 }
 
 #roda {
-   margin-top: 2280px;
+   margin-top: 1705px;
 }

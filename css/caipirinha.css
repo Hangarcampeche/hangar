@@ -6,50 +6,30 @@ h1 {
     margin: 139px 0 0 250px;
 }
 
-.caixa1, .caixa2, .caixa3 {
-    margin-top: -45px;
-}
-
-.caixa4 {
-    margin-top: 485px;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 25px;
 }
 
 .caixa5 {
-    margin-top: 460px;
+    margin-top: 572px;
 }
 
-.caixa6 {
-    margin-top: 460px;
-}
-
-.caixa7 {
-    margin-top: 962px;
-}
-
-.caixa8 {
-    margin-top: 937px;
+.caixa6, .caixa7, .caixa8 {
+    margin-top: 520px;
 }
 
 .caixa9 {
-    margin-top: 965px;
+    margin-top: 1067px;
 }
 
-.caixa10 {
-    margin-top: 1465px;
-}
-
-.caixa11 {
-    margin-top: 1440px;
-}
-
-.caixa12 {
-    margin-top: 1468px;
+.caixa10, .caixa11, .caixa12 {
+    margin-top: 1015px;
 }
 
 .caixa13 {
-    margin-top: 1945px;
+    margin-top: 1562px;
 }
 
 #roda {
-   margin-top: 2465px;
+   margin-top: 2095px;
 }

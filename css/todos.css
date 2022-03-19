@@ -34,7 +34,7 @@ nav li {
 
 nav li a, nav li #Menu {
     position: relative;
-    left: 273px;
+    left: 300px;
     color: #FFFFFF; 
     display: block;
     letter-spacing: .092em;
@@ -67,10 +67,6 @@ h1 {
     box-shadow: 0 0 1px 0 black;
 }
 
-.caixa1:hover, .caixa2:hover, .caixa3:hover, .caixa4:hover, .caixa5:hover, .caixa6:hover, .caixa7:hover, .caixa8:hover,.caixa9:hover, .caixa10:hover, .caixa11:hover, .caixa12:hover, .caixa13:hover, .caixa14:hover, .caixa15:hover, .caixa16:hover, .caixa17:hover, .caixa18:hover, .caixa19:hover, .caixa20:hover, .caixa21:hover, .caixa22:hover, .caixa23:hover, .caixa24:hover, .caixa25:hover, .caixa26:hover, .caixa27:hover, .caixa28:hover,.caixa29:hover, .caixa30:hover, .caixa31:hover, .caixa32:hover, .caixa33:hover, .caixa34:hover, .caixa35:hover, .caixa36:hover, .caixa37:hover, .caixa38:hover, .caixa39:hover, .caixa40:hover, .caixa41:hover {
-    background-color: #dbead5;
-}
-
 #img img {
     position: absolute;
     margin: -135px 0 0 799px;
@@ -94,15 +90,6 @@ h1 {
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     color: #2c2c2c;
-}
-
-h3 {
-    position: absolute;
-    font-family: 'Helvetica', serif;
-    font-weight: 500;
-    font-size: 20px;
-    padding: 9px 15px 10px 15px; 
-    border-radius: 20px 0 20px 0;
 }
 
 #de {
@@ -143,7 +130,6 @@ h4 {
     font-size: 35px;
     margin-left:  350px;
     margin-top: 33px;
-    padding: auto;
 }
 
 h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2 a, #sobre2 a, #site1 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
@@ -152,7 +138,8 @@ h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2
 
 #texto {
     position: relative;
-    margin: -14px 70px 0 117px; 
+    margin: -14px 0 0 117px; 
+    padding: 0 70px 0 0;
     position: relative;
     font-family: arial;
     line-height: 1.50;

@@ -1,6 +1,13 @@
 @charset "UTF-8";
 
+
 h3 {
+    position: absolute;
+    font-family: 'Helvetica', serif;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
     margin: 205px 0 0 25px;
 }
 

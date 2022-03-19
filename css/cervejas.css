@@ -5,40 +5,40 @@ h1 {
     margin: 139px 0 0 326px;
 }
 
-.caixa1, .caixa2, .caixa3 {
-    margin-top: -45px;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 25px;
 }
 
-.caixa4, .caixa5, .caixa6 {
-    margin-top: 540px;
+.caixa5, .caixa6, .caixa7, .caixa8 {
+    margin-top: 597px;
 }
 
-.caixa7, .caixa8 {
-    margin-top: 1205px;
+.caixa8 {
+    margin-top: 625px;
 }
 
 .caixa9 {
-    margin-top: 1125px;
+    margin-top: 1143px;
 }
 
 .caixa10 {
-    margin-top: 1787px;
+    margin-top: 1115px;
 }
 
 .caixa11 {
-    margin-top: 1895px;
+    margin-top: 1168px;
 }
 
 .caixa12 {
-    margin-top: 1760px;
+    margin-top: 1225px;
 }
 
 .caixa13 {
-    margin-top: 2555px;
+    margin-top: 1715px;
 }
 
 .caixa14 {
-    margin-top: 2530px;
+    margin-top: 1687px;
 }
 
 #sanduba p  {
@@ -46,5 +46,5 @@ h1 {
 }
 
 #roda {
-    margin-top: 3335px;
+    margin-top: 2300px;
 }

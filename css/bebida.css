@@ -6,62 +6,42 @@ h1 {
     margin: 139px 0 0 300px;
 }
 
-h3 {
-    background-color: #FFA500;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 25px;
 }
 
-.caixa1, .caixa2, .caixa3 {
-    margin-top: -45px;
-}
-
-.caixa4 {
-    margin-top: 460px;
-}
-
-.caixa5 {
-    margin-top: 460px;
-}
-
-.caixa6 {
-    margin-top: 487px;
+.caixa5, .caixa6 {
+    margin-top: 520px;
 }
 
 .caixa7 {
-    margin-top: 1045px;
+    margin-top: 570px;
 }
 
 .caixa8 {
-    margin-top: 1045px;
+    margin-top: 650px;
 }
 
-.caixa9 {
-    margin-top: 1070px;
-}
-
-.caixa10 {
-    margin-top: 1525px;
+.caixa9, .caixa10 {
+    margin-top: 1145px;
 }
 
 .caixa11 {
-    margin-top: 1525px;
+    margin-top: 1040px;
 }
 
 .caixa12 {
-    margin-top: 1600px;
+    margin-top: 1120px;
 }
 
-.caixa13 {
-    margin-top: 2055px;
-}
-
-.caixa14 {
-    margin-top: 2030px;
+.caixa13, .caixa14  {
+    margin-top: 1695px;
 }
 
 .caixa15 {
-    margin-top: 2105px;
+    margin-top: 1535px;
 }
 
 #roda {
-   margin-top: 2700px;
+   margin-top: 2280px;
 }

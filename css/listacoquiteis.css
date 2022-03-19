@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+h1 {
+    color: #FFA500;
+    width: 280px;
+    margin: 139px 0 0 280px;
+}
+
+h3 {
+    background-color: #FFA500;
+    color: white;
+}
+
+#roda {
+   margin-top: 3510px;
+}

@@ -3,148 +3,148 @@
 h1 {
     color: #f8f00d;
     width: 250px;
-    margin: 139px 0 0 289px;
+    margin: 139px 0 0 250px;
 }
 
 h3 {
     background-color: #f8f00d;
     color: black;
+} 
+
+#buteco ul li {
+    width: 325px;
 }
 
 .caixa1, .caixa2, .caixa3 {
     margin-top: 85px;
 }
 
-.caixa4 {
-    margin-top: 547px;
-}
-
-.caixa5 {
-    margin-top: 495px;
-}
-
-.caixa6 {
+.caixa4, .caixa6 {
     margin-top: 521px;
 }
 
+.caixa5 {
+    margin-top: 548px;
+}
+
 .caixa7 {
-    margin-top: 1010px;
+    margin-top: 985px;
 }
 
 .caixa8 {
-    margin-top: 957px;
+    margin-top: 985px;
 }
 
 .caixa9 {
-    margin-top: 930px;
+    margin-top: 957px;
 }
 
 .caixa10 {
-    margin-top: 1419px;
+    margin-top: 1397px;
 }
 
 .caixa11 {
-    margin-top: 1390px;
+    margin-top: 1397px;
 }
 
 .caixa12 {
-    margin-top: 1390px;
+    margin-top: 1420px;
 }
 
 .caixa13 {
-    margin-top: 1827px;
+    margin-top:  1835px;
 }
 
 .caixa14 {
-    margin-top: 1798px;
+    margin-top:  1835px;
 }
 
 .caixa15 {
-    margin-top: 1798px;
+    margin-top:  1856px;
 }
 
 .caixa16 {
-    margin-top: 2235px;
+    margin-top: 2248px;
 }
 
 .caixa17 {
-    margin-top: 2235px;
+    margin-top: 2285px;
 }
 
 .caixa18 {
-    margin-top: 2205px;
+    margin-top: 2285px;
 }
 
 .caixa19 {
-    margin-top: 2695px;
+    margin-top: 2257px;
 }
 
 .caixa20 {
-    margin-top: 2725px;
+    margin-top: 12397px;
 }
 
 .caixa21 {
-    margin-top: 2640px;
+    margin-top: 12397px;
 }
 
 .caixa22 {
-    margin-top: 3130px;
+    margin-top: 12420px;
 }
 
 .caixa23 {
-    margin-top: 3160px;
+    margin-top:  12835px;
 }
 
 .caixa24 {
-    margin-top: 3050px;
+    margin-top:  12835px;
 }
 
 .caixa25 {
-    margin-top: 3537px;
+    margin-top:  12856px;
 }
 
 .caixa26 {
-    margin-top: 3595px;
+    margin-top: 12397px;
 }
 
 .caixa27 {
-    margin-top: 3485px;
+    margin-top: 12397px;
 }
 
 .caixa28 {
-    margin-top: 3970px;
+    margin-top: 12420px;
 }
 
 .caixa29 {
-    margin-top: 4055px;
+    margin-top:  12835px;
 }
 
 .caixa30 {
-    margin-top: 4025px;
+    margin-top:  12835px;
 }
 
 .caixa31 {
-    margin-top: 4405px;
+    margin-top:  12856px;
 }
 
 .caixa32 {
-    margin-top: 4489px;
+    margin-top: 12420px;
 }
 
 .caixa33 {
-    margin-top: 4460px;
+    margin-top:  12835px;
 }
 
 .caixa34 {
-    margin-top: 4890px;
+    margin-top:  12835px;
 }
 
 .caixa35 {
-    margin-top: 4925px;
+    margin-top:  12856px;
 }
 
 .caixa36 {
-    margin-top: 4948px;
+    margin-top:  12856px;
 }
 
 #de {
