@@ -14,7 +14,7 @@
     position: relative;
     left: -9px;
     top: 10px;
-    color: black; 
+    color: white; 
     display: block;
     font-size: 18px;
     font-family: helvetica;
@@ -209,7 +209,6 @@ h3 {
     font-size: 20px;
     width: 100%; 
     margin: 0px 0 0 200px;
-    border-radius: 0 0 0 20px;
     padding: 9px 15px 10px 55px;
 }
 
