@@ -11,17 +11,95 @@ h3 {
     margin: 205px 0 0 25px;
 }
 
+#listaa, #listaa2 {
+    position: relative;
+    width: 37px;
+    height: 35px;
+    box-shadow: 0 0 2px 0 black;
+    padding: -10px;
+}
+
+#listaa {
+    margin: 45px 0 0 160px;
+    border-radius: 7px 0px 0px 0px;
+    background-color: white;
+}
+
+#listaa2 {
+    margin: -35px 0 0 197px;
+    border-radius: 0px 0px 7px 0px;
+    background-color: gray;
+}
+
+#linha1, #linha2, #linha3  {
+    position: absolute;
+    background-color: white;
+    width: 16px;
+    height: 2px;
+}
+
+#linha4, #linha5, #linha6 {
+    position: absolute;
+    background-color: #FFA500;
+    width: 19px;
+    height: 2px;
+}
+
+#linha7, #linha8, #linha9 {
+    position: absolute;
+    background-color: #FFA500;
+    width: 2px;
+    height: 15px;
+}
+
+#linha1 {
+    margin: 11px 0 0 11px;
+}
+
+#linha2 {
+    margin: 18px 0 0 11px;
+}
+
+#linha3 {
+    margin: 25px 0 0 11px;
+}
+
+#linha4 {
+    margin: 10px 0 0 9px;
+}
+
+#linha5 {
+    margin: 17px 0 0 9px;
+}
+
+#linha6 {
+    margin: 24px 0 0 9px;
+}
+
+#linha7 {
+    margin: 11px 0 0 9px;
+}
+
+#linha8 {
+    margin: 11px 0 0 18px;
+}
+
+#linha9 {
+    margin: 11px 0 0 26px;
+}
+
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36 {
     position: relative;
     width: 325px;
+    margin-left: 100px;
 }
 
 .caixa2, .caixa5, .caixa8, .caixa11, .caixa14, .caixa17, .caixa20, .caixa23, .caixa26, .caixa29, .caixa32, .caixa35 {
-    margin-left: 345px;
+    margin-left: 445px;
 }
 
 .caixa3, .caixa6, .caixa9, .caixa12, .caixa15, .caixa18, .caixa21, .caixa24, .caixa27, .caixa30, .caixa33, .caixa36 {
-    margin-left: 690px;
+    margin-left: 790px;
 }
 
 #buteco p  {

@@ -3,7 +3,7 @@
 h1 {
     color: #ADFF2F;
     width: 200px;
-    margin: 139px 0 0 339px;
+    margin: 139px 0 0 439px;
 }
 
 h3 {
@@ -16,51 +16,39 @@ h3 {
 }
 
 .caixa1, .caixa2, .caixa3 {
-    margin-top: 85px;
+    margin-top: 10px;
 }
 
 .caixa4, .caixa6 {
-    margin-top: 521px;
+    margin-top: 444px;
 }
 
 .caixa5 {
-    margin-top: 548px;
+    margin-top: 472px;
 }
 
-.caixa7 {
-    margin-top: 985px;
-}
-
-.caixa8 {
-    margin-top: 985px;
+.caixa7, .caixa8 {
+    margin-top: 905px;
 }
 
 .caixa9 {
-    margin-top: 957px;
+    margin-top: 877px;
 }
 
-.caixa10 {
-    margin-top: 1397px;
-}
-
-.caixa11 {
-    margin-top: 1397px;
+.caixa10, .caixa11 {
+    margin-top: 1313px;
 }
 
 .caixa12 {
-    margin-top: 1420px;
+    margin-top: 1338px;
 }
 
-.caixa13 {
-    margin-top:  1835px;
-}
-
-.caixa14 {
-    margin-top:  1835px;
+.caixa13, .caixa14 {
+    margin-top:  1748px;
 }
 
 .caixa15 {
-    margin-top:  1856px;
+    margin-top:  1774px;
 }
 
 #de {
@@ -68,6 +56,6 @@ h3 {
 }
 
 #roda {
-    margin-top: 2333px;
+    margin-top: 2248px;
 }
 
