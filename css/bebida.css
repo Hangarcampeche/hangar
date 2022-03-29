@@ -3,7 +3,7 @@
 h1 {
     color: #FFA500;
     width: 235px;
-    margin: 139px 0 0 300px;
+    margin: 139px 0 0 400px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
@@ -19,11 +19,11 @@ h1 {
 }
 
 .caixa8 {
-    margin-top: 650px;
+    margin-top: 597px;
 }
 
 .caixa9, .caixa10 {
-    margin-top: 1145px;
+    margin-top: 1095px;
 }
 
 .caixa11 {
@@ -31,11 +31,11 @@ h1 {
 }
 
 .caixa12 {
-    margin-top: 1120px;
+    margin-top: 1066px;
 }
 
 .caixa13, .caixa14  {
-    margin-top: 1695px;
+    margin-top: 1645px;
 }
 
 .caixa15 {
@@ -43,5 +43,5 @@ h1 {
 }
 
 #roda {
-   margin-top: 2280px;
+   margin-top: 2230px;
 }

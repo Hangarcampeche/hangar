@@ -3,10 +3,8 @@
 h1 {
     color: red;
     width: 565px;
-    margin: 139px 0 0 89px;
+    margin: 139px 0 0 189px;
 }
-
-
 
 h3 {
     background-color: #A61407;
@@ -23,17 +21,17 @@ h2 {
 
 .sub {
     position: relative;
-    margin: 90px 0 0 100px;   
+    margin: -75px 0 0 250px;   
 }
 
 .sub2 {
     position: relative;
-    margin: 970px 0 0 100px;   
+    margin: 970px 0 0 250px;   
 }
 
 .sub3 {
     position: relative;
-    margin: 1000px 0 0 100px;   
+    margin: 1000px 0 0 250px;   
 }
 
 #dee {

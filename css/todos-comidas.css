@@ -22,32 +22,32 @@ h3 {
 #listaa {
     margin: 45px 0 0 160px;
     border-radius: 7px 0px 0px 0px;
-    background-color: white;
+    background-color: gray;
 }
 
 #listaa2 {
     margin: -35px 0 0 197px;
     border-radius: 0px 0px 7px 0px;
-    background-color: gray;
+    background-color: white;
 }
 
 #linha1, #linha2, #linha3  {
     position: absolute;
-    background-color: white;
+    background-color: #FFA500;
     width: 16px;
     height: 2px;
 }
 
 #linha4, #linha5, #linha6 {
     position: absolute;
-    background-color: #FFA500;
+    background-color: white;
     width: 19px;
     height: 2px;
 }
 
 #linha7, #linha8, #linha9 {
     position: absolute;
-    background-color: #FFA500;
+    background-color: white;
     width: 2px;
     height: 15px;
 }
