@@ -107,14 +107,6 @@ h3 {
     margin: 17px 30px 0 30px;
 }
 
-#preço p, #preço1 p, #preço2 p, #preço3 p, #preço4 p, #preço5 p {
-    position: relative;
-    font-size: 18px;
-    letter-spacing: .070em;
-    line-height: 1.50;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-}
-
 #preço2 p, #preço3 p {
     text-decoration: line-through;
 }

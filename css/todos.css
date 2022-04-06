@@ -92,20 +92,18 @@ h1 {
     color: #2c2c2c;
 }
 
-#de {
-    position: absolute;
-    width: 400px;
-    height: 7px;
-}
-
-#preço1 p {
-    position: absolute;
+#preço p, #preço1 p, #preço2 p, #preço3 p, #preço4 p, #preço5 p {
+    position: relative;
     font-size: 18px;
     letter-spacing: .070em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    color: #0d730d;
-    margin: -26px 0 0 150px;
+}
+
+#de {
+    position: absolute;
+    width: 400px;
+    height: 7px;
 }
 
 #roda {
@@ -132,7 +130,7 @@ h4 {
     margin-top: 33px;
 }
 
-h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2 a, #sobre2 a, #site1 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
+h4, h5, #rua {
     color: white;
 }
 
@@ -158,9 +156,6 @@ h4, #rua, #fale, #fale a, h5, #sobre, #site1, #bar1, #social, #sobre1 a, #sobre2
     font-family: arial;
     line-height: 1.50;
     letter-spacing: .092em;
-}
-
-#rua {
     font-size: 18px;
     margin: 10px 0 0 383px;
 }
@@ -174,15 +169,6 @@ h5 {
     font-size: 23px;
     margin: -70px 0 0 238px;
 }   
-
-#sobre, #site1, #bar1, #social {
-    position: relative;
-    font-family: verdana;
-    line-height: 1.50;
-    font-weight: 700;
-    letter-spacing: .092em;
-    font-size: 19px;
-}
 
 #img2 img, #img3 img, #img4 img {
     position: absolute;
@@ -200,25 +186,4 @@ h5 {
 
 #img4 img {
     margin: 20px 0 0 605px;
-}
-
-#sobre1, #sobre2, #site2, #site3, #site4, #site5, #site6, #bar2, #bar3, #bar4, #bar5, #social1, #social2, #social3 {
-    list-style: none;
-    font-family: arial;
-    line-height: 1.50;
-    letter-spacing: .092em;
-    width: 130px;
-}
-
-#sobre1:hover, #sobre2:hover, #site2:hover, #site3:hover, #site4:hover, #site5:hover, #site6:hover, #bar2:hover, #bar3:hover, #bar4:hover, #bar5:hover, #social1:hover, #social2:hover, #social3:hover {
-   opacity: 0.65;
-}
-
-#sobre1 a, #sobre2 a, #site2 a, #site3 a, #site4 a, #site5 a, #site6 a, #bar2 a, #bar3 a, #bar4 a, #bar5 a, #social1 a, #social2 a, #social3 a {
-   text-decoration: none;
-
-}
-
-#sobre2, #site3, #site4, #site5, #site6, #bar3, #bar4, #bar5, #social2, #social3 {
-    margin-top: -10px;
 }

@@ -1,236 +1,55 @@
-@charset "UTF-8";
-
-#submenu {
-    position: relative;
-    background-color: #FFA500;
-    width: 500px;
-    height: 60px;
-    box-shadow: 0 0 2px 0 black;
-    border-radius: 17px 0px 17px 0px;
-    margin: 80px auto;
-}
-
-#submenu a, #submenu li {
-    position: relative;
-    left: -9px;
-    top: 10px;
-    color: white; 
-    display: block;
-    font-size: 18px;
-    font-family: helvetica;
-    padding: 0 4px 0 4px;
-}
-
-#submenu a:hover {
-    color: white;
-    text-decoration: underline; 
-}
-
-#listaa, #listaa2 {
-    position: relative;
-    width: 37px;
-    height: 35px;
-    box-shadow: 0 0 2px 0 black;
-    padding: -10px;
-}
-
 #listaa {
     margin: 45px 0 0 160px;
-    border-radius: 7px 0px 0px 0px;
-    background-color: white;
 }
 
 #listaa2 {
     margin: -35px 0 0 197px;
-    border-radius: 0px 0px 7px 0px;
-    background-color: gray;
 }
 
-#linha1, #linha2, #linha3  {
-    position: absolute;
-    background-color: white;
-    width: 16px;
-    height: 2px;
-}
-
-#linha4, #linha5, #linha6 {
-    position: absolute;
-    background-color: #FFA500;
-    width: 19px;
-    height: 2px;
-}
-
-#linha7, #linha8, #linha9 {
-    position: absolute;
-    background-color: #FFA500;
-    width: 2px;
-    height: 15px;
-}
-
-#linha1 {
-    margin: 11px 0 0 11px;
-}
-
-#linha2 {
-    margin: 18px 0 0 11px;
-}
-
-#linha3 {
-    margin: 25px 0 0 11px;
-}
-
-#linha4 {
-    margin: 10px 0 0 9px;
-}
-
-#linha5 {
-    margin: 17px 0 0 9px;
-}
-
-#linha6 {
-    margin: 24px 0 0 9px;
-}
-
-#linha7 {
-    margin: 11px 0 0 9px;
-}
-
-#linha8 {
-    margin: 11px 0 0 18px;
-}
-
-#linha9 {
-    margin: 11px 0 0 26px;
-}
-
-.caixa1, .caixa3, .caixa5, .caixa7, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa23, .caixa25, .caixa27, .caixa29, .caixa31, .caixa33, .caixa35 {
-    margin-left: 81px;
-    width: 520px;
-    height: 200px;
-}
-
-.caixa2, .caixa4, .caixa6, .caixa8, .caixa10, .caixa12, .caixa14, .caixa16, .caixa18, .caixa20, .caixa22, .caixa24, .caixa26, .caixa28, .caixa30, .caixa32, .caixa34, .caixa36 {
-    margin-left: 620px;
-    width: 520px;
-    height: 200px;
-}
-
-.caixa1, .caixa2 {
+.caixa1, .caixa2, .caixa3 {
     margin-top: 5px;
 }
 
-.caixa3, .caixa4 {
+.caixa4, .caixa5, .caixa6  {
     margin-top: 250px;
 }
 
-.caixa5, .caixa6 {
+.caixa7, .caixa8, .caixa9 {
     margin-top: 495px;
 }
 
-.caixa7, .caixa8 {
+.caixa10, .caixa11, .caixa12 {
     margin-top: 740px;
 }
 
-.caixa9, .caixa10 {
+.caixa13, .caixa14, .caixa15  {
     margin-top: 985px;
 }
 
-.caixa11, .caixa12 {
+.caixa16, .caixa17, .caixa18 {
     margin-top: 1230px;
 }
 
-.caixa13, .caixa14  {
+.caixa19, .caixa20, .caixa21 {
     margin-top: 1475px;
 }
 
-.caixa15, .caixa16 {
+.caixa22, .caixa23, .caixa24 {
     margin-top: 1720px;
 }
 
-.caixa17, .caixa18 {
+.caixa25, .caixa26, .caixa27 {
     margin-top: 1965px;
 }
 
-.caixa19, .caixa20 {
+.caixa28, .caixa29, .caixa30 {
     margin-top: 2210px;
 }
 
-.caixa21, .caixa22 {
+.caixa31, .caixa32, .caixa33 {
     margin-top: 2455px;
 }
 
-.caixa23, .caixa24 {
+.caixa34, .caixa35, .caixa36 {
     margin-top: 2700px;
-}
-
-.caixa25, .caixa26 {
-    margin-top: 2945px;
-}
-
-.caixa27, .caixa28 {
-    margin-top: 3190px;
-}
-
-.caixa29, .caixa30 {
-    margin-top: 3435px;
-}
-
-.caixa31, .caixa32 {
-    margin-top: 3680px;
-}
-
-.caixa33, .caixa34 {
-    margin-top: 3925px;
-}
-
-.caixa35, .caixa36 {
-    margin-top: 4170px;
-}
-
-#buteco p  {
-    position: relative;
-    margin: 10px 35px 0 245px;
-}
-
-#preço p {
-    position: relative;
-    font-size: 19px;
-    letter-spacing: .070em;
-    line-height: 1.50;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    color: #A61407;
-    margin: -170px 0 0 243px;
-}
-
-h3 {
-    position: absolute;
-    font-family: 'Helvetica', serif;
-    font-weight: 500;
-    font-size: 20px;
-    width: 100%; 
-    margin: 0px 0 0 200px;
-    padding: 9px 15px 10px 55px;
-}
-
-#preço1 p {
-    position: absolute;
-    font-size: 19px;
-    letter-spacing: .070em;
-    line-height: 1.50;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    color: #0d730d;
-    margin: -28px 0 0 382px;
-}
-
-#img5 img, #img6 img{
-    position: absolute;
-    margin-top: 20px;
-}
-
-#img5 img {
-    margin-left: 60px;
-}
-
-#img6 img {
-    margin-left: 190px;
 }
