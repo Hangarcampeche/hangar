@@ -21,7 +21,7 @@ body {
         
 nav ul {
    position: relative;
-   width: 100%;
+   width: 1300px;
    margin: 0px auto;
 }
 
@@ -35,7 +35,7 @@ nav li {
 nav li a, nav li #Menu {
     position: relative;
     left: 300px;
-    color: blue; 
+    color: #FFFFFF; 
     display: block;
     letter-spacing: .092em;
     font-size: 18px;
