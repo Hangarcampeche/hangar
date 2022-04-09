@@ -104,29 +104,39 @@ h3 {
 
 #buteco p  {
     position: relative;
-    margin: 17px 30px 0 30px;
-}
-
-#preço2 p, #preço3 p {
-    text-decoration: line-through;
+    margin: 5px 30px 0 30px;
 }
 
 #preço p, #preço2 p, #preço4 p  {
     color: #A61407;
-    margin-top: 40px;
 }
 
 #preço1 p, #preço3 p, #preço5 p {
     color: #0d730d;
-    margin: -26px 0 0 150px;
+}
+
+#preço1 p {
+    margin: -26px 0 0 190px;
+}
+
+#preço p {
+    margin: 40px 0 0 50px;
+}
+
+#preço2 p {
+    margin: 40px 0 0 50px;
+}
+
+#preço3 p {
+    margin: -19px 0 0 190px;
 }
 
 #preço4 p {
-    margin-top: 7px;
+    margin: 0 0 0 50px;
 }
 
 #preço5 p {
-    margin-top: -27px;
+    margin: -26px 0 0 190px;
 }
 
 #de {

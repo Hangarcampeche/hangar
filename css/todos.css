@@ -92,12 +92,29 @@ h1 {
     color: #2c2c2c;
 }
 
-#preço p, #preço1 p, #preço2 p, #preço3 p, #preço4 p, #preço5 p {
+#preço2 p, #preço3 p, #preço4 p, #preço5 p {
     position: relative;
-    font-size: 18px;
     letter-spacing: .070em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+#preço p, #preço1 p, #preço4 p, #preço5 p {
+    font-size: 18px;
+}
+
+#preço2 p, #preço3 p {
+    padding: 0 0 0 5px;
+    text-decoration: line-through;
+    font-size: 13px;
+}
+
+#preço p, #preço2 p, #preço4 p  {
+    color: #A61407;
+}
+
+#preço1 p, #preço3 p, #preço5 p {
+    color: #0d730d;
 }
 
 #de {

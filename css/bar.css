@@ -21,17 +21,17 @@ h2 {
 
 .sub {
     position: relative;
-    margin: -75px 0 0 250px;   
+    margin: 0px 0 0 220px;   
 }
 
 .sub2 {
     position: relative;
-    margin: 970px 0 0 250px;   
+    margin: 950px 0 0 220px;   
 }
 
 .sub3 {
     position: relative;
-    margin: 1000px 0 0 250px;   
+    margin: 940px 0 0 220px;   
 }
 
 #dee {
@@ -51,18 +51,18 @@ h2 {
 }
 
 .caixa4, .caixa5, .caixa6, .caixa16, .caixa17, .caixa18 {
-    margin-top: 427px;
+    margin-top: 410px;
 }
 
 .caixa10, .caixa11 {
-    margin-top: 460px;
+    margin-top: 428px;
 }
 
 .caixa12 {
-    margin-top: 435px;
+    margin-top: 403px;
 }
 
 #roda {
-    margin-top: 930px;
+    margin-top: 895px;
 }
 
