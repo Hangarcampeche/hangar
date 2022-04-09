@@ -35,7 +35,7 @@ nav li {
 nav li a, nav li #Menu {
     position: relative;
     left: 300px;
-    color: #FFFFFF; 
+    color: blue; 
     display: block;
     letter-spacing: .092em;
     font-size: 18px;
