@@ -7,7 +7,7 @@ body {
 }
 
 #site {
-    width: 1300px;
+    width: 100%;
     margin: -39px auto;
 }
 
@@ -16,11 +16,11 @@ body {
    width: 100%;
    height: 42px;
    box-shadow: 0 0 3px  black;
-   background-color: blue;
+   background-color: red;
 }
 
 @media only screen and (max-device-width: 900px) {
-/* .menu { width:100%; } */
+/* #menu { width:100%; } */
 }
         
 nav ul {
