@@ -11,132 +11,124 @@ h3 {
     color: black;
 } 
 
-#buteco ul li {
-    width: 325px;
-}
-
-.caixa1, .caixa2, .caixa3 {
-    margin-top: 10px;
-}
-
-.caixa4 {
-    margin-top: 457px;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 180px;
 }
 
 .caixa5 {
-    margin-top: 405px;
+    margin-top: 778px;
 }
 
 .caixa6 {
-    margin-top: 432px;
+    margin-top: 698px;
 }
 
 .caixa7 {
-    margin-top: 905px;
+    margin-top: 725px;
 }
 
 .caixa8 {
-    margin-top: 853px;
+    margin-top: 752px;
 }
 
 .caixa9 {
-    margin-top: 827px;
+    margin-top: 1351px;
 }
 
-.caixa10 {
-    margin-top: 1301px;
+.caixa10, .caixa11 {
+    margin-top: 1244px;
 }
 
-.caixa11, .caixa12 {
-    margin-top: 1274px;
+.caixa12 {
+    margin-top: 1271px;
 }
 
 .caixa13 {
-    margin-top:  1697px;
+    margin-top:  1950px;
 }
 
 .caixa14, .caixa15 {
-    margin-top:  1670px;
+    margin-top:  1764px;
 }
 
-.caixa16, .caixa17 {
-    margin-top: 2093px;
+.caixa16 {
+    margin-top: 1790px;
+}
+
+.caixa17 {
+    margin-top: 2444px;
 }
 
 .caixa18 {
-    margin-top: 2065px;
+    margin-top: 2336px;
 }
 
 .caixa19 {
-    margin-top: 2540px;
+    margin-top: 2283px;
 }
 
 .caixa20 {
-    margin-top: 2567px;
+    margin-top: 2363px;
 }
 
 .caixa21 {
-    margin-top: 2485px;
+    margin-top: 3070px;
 }
 
 .caixa22 {
-    margin-top: 2963px;
+    margin-top: 2883px;
 }
 
 .caixa23 {
-    margin-top:  2990px;
+    margin-top:  2830px;
 }
 
 .caixa24 {
-    margin-top:  2880px;
+    margin-top:  2910px;
 }
 
 .caixa25 {
-    margin-top:  3360px;
+    margin-top:  3591px;
 }
 
 .caixa26 {
-    margin-top: 3412px;
+    margin-top: 3403px;
 }
 
 .caixa27 {
-    margin-top: 3302px;
+    margin-top: 3376px;
 }
 
 .caixa28 {
-    margin-top: 3782px;
+    margin-top: 3457px;
 }
 
 .caixa29 {
-    margin-top:  3860px;
+    margin-top:  4138px;
 }
 
 .caixa30 {
-    margin-top:  3828px;
+    margin-top:  4001px;
 }
 
 .caixa31 {
-    margin-top:  4205px;
-}
-
-.caixa32 {
-    margin-top: 4283px;
+    margin-top:  4081px;
 }
 
 .caixa33 {
-    margin-top:  4250px;
+    margin-top:  4030px;
 }
 
 .caixa34 {
-    margin-top:  4678px;
+    margin-top:  4683px;
 }
 
 .caixa35 {
-    margin-top:  4703px;
+    margin-top:  4547px;
 }
 
 .caixa36 {
-    margin-top:  4725px;
+    margin-top:  4705px;
 }
 
 #de {
@@ -144,5 +136,5 @@ h3 {
 }
 
 #roda {
-    margin-top: 5190px;
+    margin-top: 5295px;
 }

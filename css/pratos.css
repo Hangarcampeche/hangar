@@ -11,44 +11,44 @@ h3 {
     color: black;
 }
 
-#buteco ul li {
-    width: 325px;
+.caixa1, .caixa2, .caixa3, .caixa4 {
+    margin-top: 180px;
 }
 
-.caixa1, .caixa2, .caixa3 {
-    margin-top: 10px;
+.caixa5, .caixa6 {
+    margin-top: 752px;
 }
 
-.caixa4, .caixa6 {
-    margin-top: 434px;
+.caixa7 {
+    margin-top: 725px;
 }
 
-.caixa5 {
-    margin-top: 462px;
+.caixa8 {
+    margin-top: 753px;
 }
 
-.caixa7, .caixa8 {
-    margin-top: 885px;
+.caixa9, .caixa10 {
+    margin-top: 1298px;
 }
 
-.caixa9 {
-    margin-top: 857px;
-}
-
-.caixa10, .caixa11 {
-    margin-top: 1283px;
+.caixa11 {
+    margin-top: 1218px;
 }
 
 .caixa12 {
-    margin-top: 1307px;
+    margin-top: 1247px;
 }
 
-.caixa13, .caixa14 {
-    margin-top:  1707px;
+.caixa13 {
+    margin-top:  1896px;
+}
+
+.caixa14 {
+    margin-top:  1844px;
 }
 
 .caixa15 {
-    margin-top:  1733px;
+    margin-top:  1765px;
 }
 
 #de {
@@ -56,6 +56,6 @@ h3 {
 }
 
 #roda {
-    margin-top: 2200px;
+    margin-top: 2560px;
 }
 
