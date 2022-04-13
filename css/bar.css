@@ -21,17 +21,17 @@ h2 {
 
 .sub {
     position: relative;
-    margin: 0px 0 0 220px;   
+    margin: 180px 0 0 220px;   
 }
 
 .sub2 {
     position: relative;
-    margin: 950px 0 0 220px;   
+    margin: 1200px 0 0 220px;   
 }
 
 .sub3 {
     position: relative;
-    margin: 940px 0 0 220px;   
+    margin: 670px 0 0 220px;   
 }
 
 #dee {
@@ -46,23 +46,47 @@ h2 {
     background-color: #A61407;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa7, .caixa8, .caixa9, .caixa13, .caixa14, .caixa15 {
+.caixa1, .caixa5, .caixa7, .caixa11, .caixa13, .caixa17 {
+    margin-left: 81px;
+}
+
+.caixa2, .caixa6, .caixa8, .caixa12, .caixa14, .caixa18 {
+    margin-left: 350px;
+}
+
+.caixa3, .caixa9, .caixa15 {
+    margin-left: 620px;
+}
+
+.caixa4, .caixa10, .caixa16 {
+    margin-left: 890px;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa7, .caixa8, .caixa9, .caixa10, .caixa13, .caixa14, .caixa15, .caixa16 {
     margin-top: -10px;
 }
 
-.caixa4, .caixa5, .caixa6, .caixa16, .caixa17, .caixa18 {
-    margin-top: 410px;
+.caixa5, .caixa6 {
+    margin-top: 536px;
 }
 
-.caixa10, .caixa11 {
-    margin-top: 428px;
+.caixa11 {
+    margin-top: 583px;
 }
 
 .caixa12 {
-    margin-top: 403px;
+    margin-top: 558px;
+}
+
+.caixa17 {
+    margin-top: 538px;
+}
+
+.caixa18 {
+    margin-top: 538px;
 }
 
 #roda {
-    margin-top: 895px;
+    margin-top: 1150px;
 }
 

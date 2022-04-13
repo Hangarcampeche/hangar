@@ -118,23 +118,7 @@ h3 {
     margin: 11px 0 0 26px;
 }
 
-.caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
-    margin-left: 81px;
-    width: 250px;
-}
-
-.caixa2, .caixa6, .caixa10, .caixa14, .caixa18, .caixa22, .caixa26, .caixa30, .caixa35, .caixa39 {
-    margin-left: 350px;
-    width: 250px;
-}
-
-.caixa3, .caixa7, .caixa11, .caixa15, .caixa19, .caixa23, .caixa27, .caixa31, .caixa36, .caixa40 {
-    margin-left: 620px;
-    width: 250px;
-}
-
-.caixa4, .caixa8, .caixa12, .caixa16, .caixa20, .caixa24, .caixa28, .caixa33, .caixa37, .caixa41 {
-    margin-left: 890px;
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36, .caixa37, .caixa38, .caixa39, .caixa40, .caixa41, .caixa42 {
     width: 250px;
 }
 
@@ -151,6 +135,30 @@ h3 {
 #preço1 p {
     color: #0d730d;
     margin: -27px 0 0 142px;
+}
+
+#preço p, #preço2 p, #preço4 p  {
+    color: #A61407;
+}
+
+#preço1 p, #preço3 p, #preço5 p {
+    color: #0d730d;
+}
+
+#preço2 p {
+    margin: 40px 0 0 23px;
+}
+
+#preço3 p {
+    margin: -19px 0 0 142px;
+}
+
+#preço4 p {
+    margin: 0 0 0 23px;
+}
+
+#preço5 p {
+    margin: -26px 0 0 142px;
 }
 
 #de {
