@@ -6,6 +6,15 @@ h1 {
     margin: 139px 0 0 380px;
 }
 
+h3 {
+    background-color: #FFA500;
+    color: white;
+}
+
+#de {
+    background-color: #FFA500;
+}
+
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
     margin-left: 81px;
 }

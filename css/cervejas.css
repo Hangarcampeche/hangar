@@ -1,8 +1,18 @@
 @charset "UTF-8";
 
 h1 {
+    color: #FFA500;
     width: 228px;
     margin: 139px 0 0 426px;
+}
+
+h3 {
+    background-color: #FFA500;
+    color: white;
+}
+
+#de {
+    background-color: #FFA500;
 }
 
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
