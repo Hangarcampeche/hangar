@@ -3,12 +3,16 @@
 h1 {
     color: #f8f00d;
     width: 250px;
-    margin: 139px 0 0 350px;
+    margin: 139px 0 0 445px;
 }
 
 h3 {
     background-color: #f8f00d;
     color: black;
+}
+
+#listaa {
+    margin: -35px 0 0 160px;
 } 
 
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
@@ -28,7 +32,7 @@ h3 {
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
-    margin-top: 180px;
+    margin-top: 80px;
 }
 
 .caixa5 {
