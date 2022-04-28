@@ -9,6 +9,9 @@ h1 {
 h3 {
     background-color: #FFA500;
     color: white;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
+    margin: 295px 0 0 15px;
 }
 
 #listaa {
@@ -17,6 +20,10 @@ h3 {
 
 #de {
     background-color: #FFA500;
+}
+
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36, .caixa37, .caixa38, .caixa39, .caixa40, .caixa41, .caixa42 {
+    width: 250px;
 }
 
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
@@ -52,6 +59,14 @@ h3 {
 
 .caixa11 {
     margin-top: 1065px;
+}
+
+#preço  {
+    margin-top: 40px;
+}
+
+#preço1  {
+    margin: -35px 0 0 101px;
 }
 
 #roda {

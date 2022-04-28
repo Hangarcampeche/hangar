@@ -134,26 +134,28 @@ h3 {
     padding: 9px 15px 10px 55px;
 }
 
-#preço1 p {
-    margin: -26px 0 0 190px;
+#preço1 {
+    margin: -35px 0 0 20px;
 }
 
-#preço p {
-    margin: 58px 0 0 50px;
+#preço {
+    margin: 67px 0 0 150px;
 }
 
-#preço2 p {
-    margin: 50px 0 0 50px;
+#preço2 {
+    margin: 65px 0 0 150px;
 }
 
-#preço3 p {
-    margin: -19px 0 0 190px;
+#preço3 {
+    margin: -28px 0 0 20px;
 }
 
-#preço4 p {
-    margin: 0 0 0 50px;
+#preço4 {
+    margin: 0px 0 0 150px;
 }
 
-#preço5 p {
-    margin: -26px 0 0 190px;
+#preço5 {
+    margin: -37px 0 0 20px;
 }
+
+

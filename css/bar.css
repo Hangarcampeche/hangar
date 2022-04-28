@@ -8,7 +8,10 @@ h1 {
 
 h3 {
     background-color: #A61407;
-     color: white;
+    color: white;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
+    margin: 295px 0 0 15px;
 }
 
 
@@ -50,6 +53,10 @@ h2 {
     background-color: #A61407;
 }
 
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36, .caixa37, .caixa38, .caixa39, .caixa40, .caixa41, .caixa42 {
+    width: 250px;
+}
+
 .caixa1, .caixa5, .caixa7, .caixa11, .caixa13, .caixa17 {
     margin-left: 81px;
 }
@@ -88,6 +95,26 @@ h2 {
 
 .caixa18 {
     margin-top: 538px;
+}
+
+#preço  {
+    margin-top: 40px;
+}
+
+#preço1  {
+    margin: -35px 0 0 101px;
+}
+
+#preço2 {
+    margin-top: 40px;
+}
+
+#preço3 {
+    margin: -27px 0 0 101px;
+}
+
+#preço5 {
+    margin: -35px 0 0 94px;
 }
 
 #roda {
