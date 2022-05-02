@@ -35,7 +35,7 @@ nav li {
 
 nav li a, nav li #Menu {
     position: relative;
-    left: 300px;
+    left: 360px;
     color: #FFFFFF; 
     display: block;
     letter-spacing: .092em;
@@ -55,8 +55,6 @@ nav li #Menu:hover  {
 
 #submenu {
     position: relative;
-    background-color: #FFA500;
-    width: 500px;
     height: 60px;
     box-shadow: 0 0 2px 0 black;
     border-radius: 17px 0px 17px 0px;
@@ -75,7 +73,6 @@ nav li #Menu:hover  {
 }
 
 #submenu a:hover {
-    color: gray;
     text-decoration: underline; 
 }
 
@@ -175,6 +172,7 @@ h3 {
     font-family: 'Helvetica', serif;
     font-weight: 500;
     font-size: 20px;
+    color: white;
 }
 
 #img img {

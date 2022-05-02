@@ -2,8 +2,6 @@
 
 #submenu {
     position: relative;
-    background-color: #FFA500;
-    width: 500px;
     height: 60px;
     box-shadow: 0 0 2px 0 black;
     border-radius: 17px 0px 17px 0px;
@@ -26,14 +24,6 @@
     text-decoration: underline; 
 }
 
-#listaa, #listaa2 {
-    position: relative;
-    width: 37px;
-    height: 35px;
-    box-shadow: 0 0 2px 0 black;
-    padding: -10px;
-}
-
 #listaa {
     border-radius: 7px 0px 0px 0px;
     background-color: white;
@@ -42,63 +32,6 @@
 #listaa2 {
     border-radius: 0px 0px 7px 0px;
     background-color: gray;
-}
-
-#linha1, #linha2, #linha3  {
-    position: absolute;
-    background-color: white;
-    width: 16px;
-    height: 2px;
-}
-
-#linha4, #linha5, #linha6 {
-    position: absolute;
-    background-color: #FFA500;
-    width: 19px;
-    height: 2px;
-}
-
-#linha7, #linha8, #linha9 {
-    position: absolute;
-    background-color: #FFA500;
-    width: 2px;
-    height: 15px;
-}
-
-#linha1 {
-    margin: 11px 0 0 11px;
-}
-
-#linha2 {
-    margin: 18px 0 0 11px;
-}
-
-#linha3 {
-    margin: 25px 0 0 11px;
-}
-
-#linha4 {
-    margin: 10px 0 0 9px;
-}
-
-#linha5 {
-    margin: 17px 0 0 9px;
-}
-
-#linha6 {
-    margin: 24px 0 0 9px;
-}
-
-#linha7 {
-    margin: 11px 0 0 9px;
-}
-
-#linha8 {
-    margin: 11px 0 0 18px;
-}
-
-#linha9 {
-    margin: 11px 0 0 26px;
 }
 
 .caixa1, .caixa5, .caixa7, .caixa11, .caixa13, .caixa17, .caixa19, .caixa23, .caixa25, .caixa29, .caixa31, .caixa35 {
@@ -117,6 +50,54 @@
     margin-left: 790px;
     width: 334px;
     height: 200px;
+}
+
+.caixa1, .caixa2, .caixa3 {
+    margin-top: 35px;
+}
+
+.caixa4, .caixa5, .caixa6  {
+    margin-top: 280px;
+}
+
+.caixa7, .caixa8, .caixa9 {
+    margin-top: 525px;
+}
+
+.caixa10, .caixa11, .caixa12 {
+    margin-top: 770px;
+}
+
+.caixa13, .caixa14, .caixa15  {
+    margin-top: 1015px;
+}
+
+.caixa16, .caixa17, .caixa18 {
+    margin-top: 1260px;
+}
+
+.caixa19, .caixa20, .caixa21 {
+    margin-top: 1505px;
+}
+
+.caixa22, .caixa23, .caixa24 {
+    margin-top: 1750px;
+}
+
+.caixa25, .caixa26, .caixa27 {
+    margin-top: 1995px;
+}
+
+.caixa28, .caixa29, .caixa30 {
+    margin-top: 2240px;
+}
+
+.caixa31, .caixa32, .caixa33 {
+    margin-top: 2485px;
+}
+
+.caixa34, .caixa35, .caixa36 {
+    margin-top: 2730px;
 }
 
 #buteco p  {
