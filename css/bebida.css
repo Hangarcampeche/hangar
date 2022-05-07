@@ -6,6 +6,16 @@ h1 {
     margin: 139px 0 0 400px;
 }
 
+h2 {
+    position: absolute;
+    margin: 260px 0 0 50px;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: .062em;
+    color: white;
+}
+
 h3 {
     background-color: #FFA500;
     color: white;
@@ -14,73 +24,87 @@ h3 {
     margin: 295px 0 0 15px;
 }
 
-#submenu {
-    width: 500px;
-    background-color: #FFA500;
-}
-
-#listaa {
-    margin: -125px 0 0 160px;
-}
-
 #de {
     background-color: #FFA500;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36, .caixa37, .caixa38, .caixa39, .caixa40, .caixa41, .caixa42 {
+.box1, .box2, .box3, .box4 {
+    background-color: #FFA500;
     width: 250px;
+    height: 300px;
 }
 
-.caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa29, .caixa34, .caixa38, .caixa42 {
+.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20 {
+    width: 250px;
+    background-color: white;
+}
+
+.box1, .caixa1, .caixa5, .caixa9, .caixa13, .caixa17 {
     margin-left: 81px;
 }
 
-.caixa2, .caixa6, .caixa10, .caixa14, .caixa18, .caixa22, .caixa26, .caixa30, .caixa35, .caixa39 {
+.box2, .caixa2, .caixa6, .caixa10, .caixa14, .caixa18 {
     margin-left: 350px;
 }
 
-.caixa3, .caixa7, .caixa11, .caixa15, .caixa19, .caixa23, .caixa27, .caixa31, .caixa36, .caixa40 {
+.box3,.caixa3, .caixa7, .caixa11, .caixa15, .caixa19 {
     margin-left: 620px;
 }
 
-.caixa4, .caixa8, .caixa12, .caixa16, .caixa20, .caixa24, .caixa28, .caixa33, .caixa37, .caixa41 {
+.box4, .caixa4, .caixa8, .caixa12, .caixa16, .caixa20 {
     margin-left: 890px;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa4 {
-    margin-top: 25px;
+.box1, .box2, .box3, .box4 {
+    margin-top: 75px;
 }
 
-.caixa5, .caixa6 {
-    margin-top: 520px;
+.caixa5, .caixa6, .caixa7, .caixa8 {
+    margin-top: 422px;
 }
 
-.caixa7 {
-    margin-top: 570px;
+.caixa9 {
+    margin-top: 915px;
 }
 
-.caixa8 {
-    margin-top: 597px;
-}
-
-.caixa9, .caixa10 {
-    margin-top: 1095px;
-}
-
-.caixa11 {
-    margin-top: 1040px;
+.caixa10, .caixa11 {
+    margin-top: 968px;
 }
 
 .caixa12 {
-    margin-top: 1066px;
+    margin-top: 915px;
 }
 
-.caixa13, .caixa14  {
-    margin-top: 1645px;
+.caixa13  {
+    margin-top: 1488px;
+}
+
+.caixa14  {
+    margin-top: 1568px;
 }
 
 .caixa15 {
-    margin-top: 1535px;
+    margin-top: 1541px;
+}
+
+.caixa16 {
+    margin-top: 1463px;
+}
+
+.caixa17 {
+    margin-top: 2009px;
+}
+
+.caixa18 {
+    margin-top: 2115px;
+}
+
+.caixa19 {
+    margin-top: 2087px;
+}
+
+.caixa20 {
+    margin-top: 2062px;
 }
 
 #preço  {
@@ -92,5 +116,5 @@ h3 {
 }
 
 #roda {
-   margin-top: 2230px;
+   margin-top: 2725px;
 }

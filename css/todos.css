@@ -53,31 +53,8 @@ nav li #Menu:hover  {
     color: #ADFF2F;
 }
 
-#submenu {
-    position: relative;
-    height: 60px;
-    box-shadow: 0 0 2px 0 black;
-    border-radius: 17px 0px 17px 0px;
-    margin: 80px auto;
-}
-
-#submenu a, #submenu li {
-    position: relative;
-    left: -9px;
-    top: 10px;
-    color: white; 
-    display: block;
-    font-size: 18px;
-    font-family: helvetica;
-    padding: 0 4px 0 4px;
-}
-
-#submenu a:hover {
-    text-decoration: underline; 
-}
-
 #listaa, #listaa2 {
-    position: relative;
+    position: absolute;
     width: 37px;
     height: 35px;
     box-shadow: 0 0 2px 0 black;
@@ -86,11 +63,12 @@ nav li #Menu:hover  {
 
 #listaa {
     border-radius: 7px 0px 0px 0px;
+    margin: 40px 0 0 1070px;
     background-color: gray;
 }
 
 #listaa2 {
-    margin: -35px 0 0 197px;
+    margin: 40px 0 0 1107px;
     border-radius: 0px 0px 7px 0px;
     background-color: white;
 }
@@ -162,7 +140,7 @@ h1 {
     background-color: white;
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 0.1px;
     -webkit-text-stroke-color: black;
     box-shadow: 0 0 1px 0 black;
 }
@@ -183,7 +161,6 @@ h3 {
 #buteco ul li {
     position: absolute;
     padding: 0 0 25px 0;
-    background-color: white;
     box-shadow: 0 0 2px  black;
     border-radius: 16px 0 16px 0;
     list-style: none;
