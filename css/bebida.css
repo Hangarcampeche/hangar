@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     position: absolute;
-    margin: 260px 0 0 50px;
+    margin: 255px 0 0 50px;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
     font-size: 30px;
@@ -31,7 +31,7 @@ h3 {
 .box1, .box2, .box3, .box4 {
     background-color: #FFA500;
     width: 250px;
-    height: 300px;
+    height: 280px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20 {
@@ -60,51 +60,51 @@ h3 {
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 422px;
+    margin-top: 402px;
 }
 
 .caixa9 {
-    margin-top: 915px;
+    margin-top: 895px;
 }
 
 .caixa10, .caixa11 {
-    margin-top: 968px;
+    margin-top: 948px;
 }
 
 .caixa12 {
-    margin-top: 915px;
+    margin-top: 895px;
 }
 
 .caixa13  {
-    margin-top: 1488px;
+    margin-top: 1468px;
 }
 
 .caixa14  {
-    margin-top: 1568px;
+    margin-top: 1548px;
 }
 
 .caixa15 {
-    margin-top: 1541px;
+    margin-top: 1521px;
 }
 
 .caixa16 {
-    margin-top: 1463px;
+    margin-top: 1443px;
 }
 
 .caixa17 {
-    margin-top: 2009px;
+    margin-top: 1989px;
 }
 
 .caixa18 {
-    margin-top: 2115px;
+    margin-top: 2095px;
 }
 
 .caixa19 {
-    margin-top: 2087px;
+    margin-top: 2067px;
 }
 
 .caixa20 {
-    margin-top: 2062px;
+    margin-top: 2042px;
 }
 
 #preço  {
@@ -116,5 +116,5 @@ h3 {
 }
 
 #roda {
-   margin-top: 2725px;
+   margin-top: 2705px;
 }

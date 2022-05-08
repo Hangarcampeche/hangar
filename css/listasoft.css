@@ -10,13 +10,20 @@ h3 {
     background-color: #FFA500;
 }
 
-#submenu {
-    width: 500px;
-    background-color: #FFA500;
+.caixa1, .caixa2, .caixa3  {
+    margin-top: 75px;
 }
 
-#listaa {
-    margin: -125px 0 0 160px;
+.caixa4, .caixa5, .caixa6  {
+    margin-top: 320px;
+}
+
+.caixa7, .caixa8, .caixa9 {
+    margin-top: 565px;
+}
+
+.caixa10, .caixa11 {
+    margin-top: 810px;
 }
 
 #roda {
