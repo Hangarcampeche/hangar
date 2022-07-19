@@ -19,7 +19,7 @@ h2 {
     position: relative;
     font-family: 'Droid Serif', serif;
     font-size: 42px;
-    color: #808080;
+    color: white;
 }
 
 .sub {
@@ -94,24 +94,12 @@ h2 {
     margin-top: 538px;
 }
 
-#preço  {
-    margin-top: 40px;
-}
-
-#preço1  {
-    margin: -35px 0 0 101px;
-}
-
 #preço2 {
-    margin-top: 40px;
+    margin: 38px 0 0 0;
 }
 
 #preço3 {
-    margin: -27px 0 0 101px;
-}
-
-#preço5 {
-    margin: -35px 0 0 94px;
+    margin: -33px 0 0 94px;
 }
 
 #roda {

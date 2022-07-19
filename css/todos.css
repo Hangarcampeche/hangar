@@ -2,7 +2,7 @@
 
 body {
     margin: 0;
-    background-color: #dcdcdc;
+    background-color: #778899;
     padding: 0;
 }
 
@@ -155,7 +155,7 @@ h3 {
 
 #img img {
     position: absolute;
-    margin: -135px 0 0 899px;
+    margin: -110px 0 0 920px;
 }
 
 #buteco ul li {
@@ -182,34 +182,30 @@ h3 {
     color: #A61407;
 }
 
-#preço1 p, #preço3 p, #preço5 p {
-    color: #0d730d;
+#preço {
+    margin-top: 40px;
+}
+
+#preço p, #preço2 p, #preço3 p {
+    color: #A61407;
 }
 
 
-#preço2 p, #preço3 p, #preço4 p, #preço5 p {
+#preço p, #preço2 p, #preço3 p {
     position: relative;
     letter-spacing: .070em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
-#preço p, #preço1 p, #preço4 p, #preço5 p {
+#preço p, #preço3 p {
     font-size: 18px;
 }
 
-#preço2 p, #preço3 p {
+#preço2 p {
     padding: 0 0 0 5px;
     text-decoration: line-through;
-    font-size: 13px;
-}
-
-#preço p, #preço2 p, #preço4 p  {
-    color: #A61407;
-}
-
-#preço1 p, #preço3 p, #preço5 p {
-    color: #0d730d;
+    font-size: 16px;
 }
 
 #de {
