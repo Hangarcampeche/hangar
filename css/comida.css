@@ -8,7 +8,7 @@ h1 {
 
 h2 {
     position: absolute;
-    margin: 223px 0 0 50px;
+    margin: 113px 0 0 30px;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
     font-size: 24px;
@@ -24,9 +24,7 @@ h3 {
 }
 
 .box1, .box2, .box3, .box4 {
-    background-color: #00a000;
-    width: 250px;
-    height: 240px;
+    height: 135px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20 {
@@ -55,61 +53,59 @@ h3 {
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 362px;
+    margin-top: 252px;
 }
 
 .caixa9, .caixa10 {
-    margin-top: 856px;
+    margin-top: 746px;
 }
 
 .caixa10 {
-    margin-top: 856px;
+    margin-top: 746px;
 }
 
 .caixa11 {
-    margin-top: 962px;
+    margin-top: 852px;
 }
 
 .caixa12 {
-    margin-top: 935px;
+    margin-top: 825px;
 }
 
 .caixa13 {
-    margin-top:  1455px;
+    margin-top:  1345px;
 }
 
 .caixa14 {
-    margin-top:  1402px;
+    margin-top:  1292px;
 }
 
 .caixa15 {
-    margin-top: 1482px;
+    margin-top: 1372px;
 }
 
 .caixa16 {
-    margin-top: 1454px;
+    margin-top: 1344px;
 }
 
 .caixa17 {
-    margin-top: 1975px;
+    margin-top: 1865px;
 }
 
 .caixa18 {
-    margin-top: 1921px;
+    margin-top: 1811px;
 }
 
 .caixa19 {
-    margin-top: 2027px;
+    margin-top: 1917px;
 }
 
 .caixa20 {
-    margin-top: 2000px;
-}
-
-#de {
-    background: #00a000;
+    margin-top: 1890px;
 }
 
 #roda {
-    margin-top: 2640px;
+    margin-top: 2505px;
 }
+
+<li><a id='Menu' href ='../arcebangu/bangu.html'>Bangu</a></li>
