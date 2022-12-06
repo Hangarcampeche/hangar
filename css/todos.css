@@ -155,7 +155,7 @@ h3 {
 
 #img img {
     position: absolute;
-    margin: -110px 0 0 920px;
+    margin: -120px 0 0 897px;
 }
 
 #buteco ul li {
@@ -230,12 +230,12 @@ footer {
 
 h4 {
     position: relative;
-    font-family: Verdana;
+    font-family: 'Fjalla One', sans-serif;
     line-height: 1.50;
     font-weight: 700;
     letter-spacing: .092em;
-    font-size: 35px;
-    margin: 33px 0 0 375px;
+    font-size: 40px;
+    margin: 33px 0 0 445px;
 }
 
 h4, #rua {
