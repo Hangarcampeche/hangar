@@ -49,48 +49,27 @@ h6 {
     background-color: #A61407;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa28, .caixa29, .caixa30, .caixa31, .caixa32, .caixa33, .caixa34, .caixa35, .caixa36, .caixa37, .caixa38, .caixa39, .caixa40, .caixa41, .caixa42 {
-    width: 250px;
-    background-color: white;
-}
-
-.caixa1, .caixa5, .caixa7, .caixa11, .caixa13, .caixa17 {
-    margin-left: 81px;
-}
-
-.caixa2, .caixa6, .caixa8, .caixa12, .caixa14, .caixa18 {
-    margin-left: 350px;
-}
-
-.caixa3, .caixa9, .caixa15 {
-    margin-left: 620px;
-}
-
-.caixa4, .caixa10, .caixa16 {
-    margin-left: 890px;
-}
-
-.caixa1, .caixa2, .caixa3, .caixa4, .caixa7, .caixa8, .caixa9, .caixa10, .caixa13, .caixa14, .caixa15, .caixa16 {
+.caixa01, .caixa02, .caixa03, .caixa04, .caixa07, .caixa08, .caixa09, .caixa010, .caixa013, .caixa014, .caixa015, .caixa016 {
     margin-top: -70px;
 }
 
-.caixa5, .caixa6 {
+.caixa05, .caixa06 {
     margin-top: 536px;
 }
 
-.caixa11 {
+.caixa011 {
     margin-top: 583px;
 }
 
-.caixa12 {
+.caixa012 {
     margin-top: 558px;
 }
 
-.caixa17 {
+.caixa017 {
     margin-top: 538px;
 }
 
-.caixa18 {
+.caixa018 {
     margin-top: 538px;
 }
 

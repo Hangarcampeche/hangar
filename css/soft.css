@@ -15,27 +15,6 @@ h3 {
     background-color: #FFA500;
 }
 
-.caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11 {
-    width: 250px;
-    background-color: white;
-}
-
-.caixa1, .caixa5, .caixa9 {
-    margin-left: 81px;
-}
-
-.caixa2, .caixa6, .caixa10 {
-    margin-left: 350px;
-}
-
-.caixa3, .caixa7, .caixa11 {
-    margin-left: 620px;
-}
-
-.caixa4, .caixa8 {
-    margin-left: 890px;
-}
-
 .caixa1, .caixa2, .caixa3, .caixa4 {
     margin-top: 75px;
 }
