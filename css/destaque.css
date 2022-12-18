@@ -2,8 +2,8 @@
 
 h1 {
     color: red;
-    width: 375px;
-    margin: 139px 0 0 332px;
+    width: 270px;
+    margin: 139px 0 0 372px;
 }
 
 h3 {
@@ -20,6 +20,7 @@ h6 {
     font-family: 'Droid Serif', serif;
     font-size: 42px;
     color: white;
+    letter-spacing: .082em;
 }
 
 .sub {
