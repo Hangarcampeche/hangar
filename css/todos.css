@@ -145,11 +145,41 @@ h1 {
      box-shadow: 0 0 1px  black;
 }
 
+h2 {
+    position: absolute;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: .092em;
+    color: white;
+}
+
 h3 {
     position: absolute;
     font-family: 'Helvetica', serif;
     font-weight: 500;
     font-size: 20px;
+    color: white;
+    padding: 9px 15px 10px 15px; 
+    border-radius: 20px 0 20px 0;
+}
+
+h4 {
+    position: relative;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: .092em;
+    color: black;
+    margin: 20px  0 0 40px;
+}
+
+h5 {
+    position: absolute;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    letter-spacing: .062em;
     color: white;
 }
 
@@ -178,34 +208,28 @@ h3 {
     color: #2c2c2c;
 }
 
-#preço p, #preço2 p, #preço4 p  {
-    color: #A61407;
-}
-
 #preço {
     margin-top: 40px;
-}
-
-#preço p, #preço2 p, #preço3 p {
-    color: #A61407;
 }
 
 
 #preço p, #preço2 p, #preço3 p {
     position: relative;
-    letter-spacing: .070em;
+    letter-spacing: .092em;
     line-height: 1.50;
+    font-weight: 700;
+    color: red;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
 #preço p, #preço3 p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 #preço2 p {
     padding: 0 0 0 5px;
     text-decoration: line-through;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 #de {
@@ -215,58 +239,38 @@ h3 {
     margin-top: 312px;
 }
 
-#roda {
-    position: absolute;
+footer {
+    position: relative;
     width: 100%;
-    height: 370px;
+    margin: auto;
+    height: 415px;
     background-color: #A61407;
 }
 
-footer {
-    position: relative;
-    width: 1100px;
-    margin: auto;
-}
-
-h4 {
-    position: relative;
-    font-family: 'Fjalla One', sans-serif;
-    line-height: 1.50;
-    font-weight: 700;
-    letter-spacing: .092em;
-    font-size: 40px;
-    margin: 33px 0 0 445px;
-}
-
-h4, #rua {
-    color: white;
-}
-
-#texto {
-    position: relative;
-    margin: 34px 0 0 117px; 
-    padding: 0 70px 0 0;
-    position: relative;
-    font-family: arial;
-    line-height: 1.50;
-    letter-spacing: .092em;
-    font-size: 19px;
-    color: white;
-}  
-        
 #img1 {
     position: relative;
-    margin: 50px 0 0 207px;
-}       
-      
-#rua {
+    margin: 10px 0 0 580px;
+}
+
+#texto, #texto2 {
     position: relative;
+    padding: 0 70px 0 0;
     font-family: arial;
     line-height: 1.50;
     letter-spacing: .092em;
-    font-size: 18px;
-    margin: -9px 0 0 383px;
-}  
+    color: white;
+} 
+
+#texto {
+     margin: -25px 0 0 580px; 
+     font-size: 18px;
+}
+
+#texto2 {
+     margin: 25px 0 0 310px; 
+     font-size: 20px;
+     padding: 0 300px 0 0;
+}
 
 #img2 img, #img3 img, #img4 img {
     position: absolute;
@@ -275,13 +279,13 @@ h4, #rua {
 }
 
 #img2 img {
-    margin: 30px 0 0 440px;
+    margin: 0 0 0 650px;
 }
 
 #img3 img {
-    margin: 30px 0 0 505px;
+    margin: 0 0 0 715px;
 }
 
 #img4 img {
-    margin: 30px 0 0 605px;
+    margin: 0 0 0 815px;
 }

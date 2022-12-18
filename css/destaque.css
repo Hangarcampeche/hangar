@@ -15,7 +15,7 @@ h3 {
 }
 
 
-h2 {
+h6 {
     position: relative;
     font-family: 'Droid Serif', serif;
     font-size: 42px;
@@ -29,12 +29,12 @@ h2 {
 
 .sub2 {
     position: relative;
-    margin: 1200px 0 0 220px;   
+    margin: 800px 0 0 220px;   
 }
 
 .sub3 {
     position: relative;
-    margin: 670px 0 0 220px;   
+    margin: 820px 0 0 220px;   
 }
 
 #dee {
@@ -71,7 +71,7 @@ h2 {
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa7, .caixa8, .caixa9, .caixa10, .caixa13, .caixa14, .caixa15, .caixa16 {
-    margin-top: -10px;
+    margin-top: -70px;
 }
 
 .caixa5, .caixa6 {
@@ -95,14 +95,14 @@ h2 {
 }
 
 #preço2 {
-    margin: 38px 0 0 0;
+    margin: 38px 0 0 -15px;
 }
 
 #preço3 {
-    margin: -33px 0 0 94px;
+    margin: -33px 0 0 84px;
 }
 
 #roda {
-    margin-top: 1150px;
+    margin-top: 870px;
 }
 

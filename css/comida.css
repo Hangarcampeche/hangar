@@ -7,20 +7,12 @@ h1 {
 }
 
 h2 {
-    position: absolute;
-    margin: 113px 0 0 30px;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-    font-size: 24px;
-    letter-spacing: .062em;
-    color: white;
+    margin: 113px 0 0 25px;
 }
 
 h3 {
-    background-color: #00a000;
-    padding: 9px 15px 10px 15px; 
-    border-radius: 20px 0 20px 0;
     margin: 295px 0 0 15px;
+    background-color: #00a000;
 }
 
 .box1, .box2, .box3, .box4 {
@@ -56,52 +48,36 @@ h3 {
     margin-top: 252px;
 }
 
-.caixa9, .caixa10 {
-    margin-top: 746px;
-}
-
-.caixa10 {
-    margin-top: 746px;
-}
-
-.caixa11 {
-    margin-top: 852px;
+.caixa9, .caixa10, .caixa11 {
+    margin-top: 947px;
 }
 
 .caixa12 {
-    margin-top: 825px;
+    margin-top: 975px;
 }
 
 .caixa13 {
-    margin-top:  1345px;
+    margin-top:  1695px;
 }
 
 .caixa14 {
-    margin-top:  1292px;
+    margin-top:  1670px;
 }
 
-.caixa15 {
-    margin-top: 1372px;
+.caixa15, .caixa16 {
+    margin-top: 1645px;
 }
 
-.caixa16 {
-    margin-top: 1344px;
-}
-
-.caixa17 {
-    margin-top: 1865px;
-}
-
-.caixa18 {
-    margin-top: 1811px;
+.caixa17, .caixa18 {
+    margin-top: 2417px;
 }
 
 .caixa19 {
-    margin-top: 1917px;
+    margin-top: 2367px;
 }
 
 .caixa20 {
-    margin-top: 1890px;
+    margin-top: 2340px;
 }
 
 #de {
@@ -109,7 +85,7 @@ h3 {
 }
 
 #roda {
-    margin-top: 2505px;
+    margin-top: 3275px;
 }
 
 <li><a id='Menu' href ='../arcebangu/bangu.html'>Bangu</a></li>

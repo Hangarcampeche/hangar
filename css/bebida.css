@@ -7,21 +7,12 @@ h1 {
 }
 
 h2 {
-    position: absolute;
     margin: 113px 0 0 30px;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-    font-size: 24px;
-    letter-spacing: .062em;
-    color: white;
 }
 
 h3 {
-    background-color: #FFA500;
-    color: white;
-    padding: 9px 15px 10px 15px; 
-    border-radius: 20px 0 20px 0;
     margin: 295px 0 0 15px;
+    background-color: #FFA500;
 }
 
 #de {
