@@ -14,7 +14,7 @@ body {
 
 #menu {
    position: relative;
-   width: 100%;
+   width: 1519px;
    height: 42px;
    box-shadow: 0 0 3px  black;
    background-color: #A61407;
@@ -262,7 +262,7 @@ h5 {
 
 footer {
     position: relative;
-    width: 100%;
+    width: 1519px;
     margin: auto;
     height: 475px;
     background-color: #A61407;
