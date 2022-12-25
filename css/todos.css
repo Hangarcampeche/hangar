@@ -2,13 +2,14 @@
 
 body {
     margin: 0;
-    background-color: #494949;
+    background-color: blue;
     padding: 0;
 }
+494949
 
 
 #site {
-    width: 1300px;
+    width: auto;
     margin: -39px auto;
 }
 
