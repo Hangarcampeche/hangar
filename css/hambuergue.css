@@ -15,8 +15,13 @@ h3 {
     background-color: #00a000;
 }
 
-h5 {
-     margin: 170px  0 0 30px;
+h6 {
+    letter-spacing: .092em;
+    margin: -20px  0 0 110px;
+    font-size: 14px;
+    color: red;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
@@ -39,34 +44,10 @@ h5 {
     margin-top: 1545px;
 }
 
-.caixa11 {
-    margin-top: 1677px;
-}
-
-.caixa12 {
-    margin-top: 1544px;
-}
-
-.caixa13 {
-    margin-top:  2241px;
-}
-
-.caixa14 {
-    margin-top:  2296px;
-}
-
-.caixa15 {
-    margin-top:  2374px;
-}
-
-.caixa16 {
-    margin-top: 2266px;
-}
-
 #de {
     background: #00a000;
 }
 
 #roda {
-    margin-top: 3230px;
+    margin-top: 2325px;
 }

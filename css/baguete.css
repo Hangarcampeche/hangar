@@ -19,14 +19,13 @@ h4 {
     margin: 20px  0 0 40px;
 }
 
-h5 {
-    position: absolute;
+h6 {
+    letter-spacing: .092em;
+    margin: -20px  0 0 110px;
+    font-size: 14px;
+    color: red;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
-    font-size: 22px;
-    letter-spacing: .062em;
-    color: white;
-     margin: 170px  0 0 30px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {

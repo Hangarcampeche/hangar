@@ -2,14 +2,12 @@
 
 body {
     margin: 0;
-    background-color: blue;
+    background-color: #494949;
     padding: 0;
 }
-494949
-
 
 #site {
-    width: auto;
+    width: 1300px;
     margin: -39px auto;
 }
 
@@ -54,83 +52,6 @@ nav li #Menu:hover  {
     color: #ADFF2F;
 }
 
-#listaa, #listaa2 {
-    position: absolute;
-    width: 37px;
-    height: 35px;
-    box-shadow: 0 0 2px 0 black;
-    padding: -10px;
-}
-
-#listaa {
-    border-radius: 7px 0px 0px 0px;
-    margin: 40px 0 0 1070px;
-    background-color: gray;
-}
-
-#listaa2 {
-    margin: 40px 0 0 1107px;
-    border-radius: 0px 0px 7px 0px;
-    background-color: white;
-}
-
-#linha1, #linha2, #linha3  {
-    position: absolute;
-    background-color: #FFA500;
-    width: 16px;
-    height: 2px;
-}
-
-#linha4, #linha5, #linha6 {
-    position: absolute;
-    background-color: white;
-    width: 19px;
-    height: 2px;
-}
-
-#linha7, #linha8, #linha9 {
-    position: absolute;
-    background-color: white;
-    width: 2px;
-    height: 15px;
-}
-
-#linha1 {
-    margin: 11px 0 0 11px;
-}
-
-#linha2 {
-    margin: 18px 0 0 11px;
-}
-
-#linha3 {
-    margin: 25px 0 0 11px;
-}
-
-#linha4 {
-    margin: 10px 0 0 9px;
-}
-
-#linha5 {
-    margin: 17px 0 0 9px;
-}
-
-#linha6 {
-    margin: 24px 0 0 9px;
-}
-
-#linha7 {
-    margin: 11px 0 0 9px;
-}
-
-#linha8 {
-    margin: 11px 0 0 18px;
-}
-
-#linha9 {
-    margin: 11px 0 0 26px;
-}
-
 h1 {
     position: relative;
     margin-top: 115px;
@@ -163,25 +84,28 @@ h3 {
     color: white;
     padding: 9px 15px 10px 15px; 
     border-radius: 20px 0 20px 0;
+    letter-spacing: .042em;
 }
 
-h4 {
+h4, h5 {
     position: relative;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
-    font-size: 18px;
-    letter-spacing: .092em;
-    color: black;
+    font-size: 19px;
+}
+
+h4 {
+    letter-spacing: .152em;
+    font-weight: bold;
     margin: 20px  0 0 40px;
+    font-size: 19px;
 }
 
 h5 {
-    position: absolute;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-    font-size: 22px;
-    letter-spacing: .062em;
-    color: white;
+    text-decoration: underline;
+    letter-spacing: .142em;
+    margin: 20px  0 0 40px;
+    font-size: 19px;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
@@ -224,7 +148,7 @@ h5 {
     position: relative;
     margin: 8px 35px 0 35px;
     font-size: 17.5px;
-    letter-spacing: .040em;
+    letter-spacing: .055em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
     color: #2c2c2c;
