@@ -139,19 +139,17 @@ h5 {
     padding: 0 0 25px 0;
     box-shadow: 0 0 1px  black;
     border-radius: 10px;
-    list-style: none;
     overflow: hidden;
-    max-width: 100%;
 }
 
 #buteco p {
     position: relative;
-    margin: 8px 35px 0 35px;
+    margin: 8px 25px 0 25px;
     font-size: 17.5px;
     letter-spacing: .055em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-    color: #2c2c2c;
+    color: black;
 }
 
 #preço {
