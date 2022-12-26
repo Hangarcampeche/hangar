@@ -33,6 +33,10 @@ nav li {
     padding: 10px;
 }
 
+nav li img{
+    margin: -5px 10px 0 0;
+}
+
 nav li a, nav li #Menu {
     position: relative;
     left: 400px;
@@ -44,20 +48,11 @@ nav li a, nav li #Menu {
     text-decoration: none;
 }
 
-nav li a:hover {
-    color: #dcdcdc;
-}
-
-nav li #Menu:hover  {
-    color: #ADFF2F;
-}
-
 h1 {
-    position: relative;
+    position: absolute;
     margin-top: 115px;
     font-size: 60px;
-    height: 60px;
-    padding: 9px 5px 25px 25px; 
+    padding: 9px 20px 9px 25px; 
     border-radius: 27px 0 27px 0;
     color: white;
     font-family: 'Fjalla One', sans-serif;
@@ -107,6 +102,7 @@ h5 {
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
     width: 250px;
     background-color: white;
+    position: absolute;
 }
 
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa01, .caixa05, .caixa07, .caixa011, .caixa013, .caixa017 {
@@ -127,7 +123,7 @@ h5 {
 
 #img img {
     position: absolute;
-    margin: -120px 0 0 897px;
+    margin: 80px 0 0 487px;
 }
 
 #buteco ul li {

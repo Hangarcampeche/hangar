@@ -2,7 +2,6 @@
 
 h1 {
     background-color: #ffa500;
-    width: 235px;
     margin: 139px 0 0 400px;
 }
 
@@ -20,6 +19,7 @@ h3 {
 }
 
 .box1, .box2, .box3, .box4 {
+    position: absolute;
     height: 135px;
 }
 
@@ -40,57 +40,61 @@ h3 {
 }
 
 .box1, .box2, .box3, .box4 {
-    margin-top: 75px;
+    margin-top: 300px;
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 252px;
+    margin-top: 480px;
 }
 
 .caixa9 {
-    margin-top: 745px;
+    margin-top: 917px;
 }
 
-.caixa10, .caixa11 {
-    margin-top: 798px;
+.caixa10 {
+    margin-top: 1055px;
+}
+
+.caixa11 {
+    margin-top: 1001px;
 }
 
 .caixa12 {
-    margin-top: 745px;
+    margin-top: 1055px;
 }
 
 .caixa13  {
-    margin-top: 1318px;
+    margin-top: 1440px;
 }
 
 .caixa14  {
-    margin-top: 1398px;
+    margin-top: 1657px;
 }
 
 .caixa15 {
-    margin-top: 1371px;
+    margin-top: 1525px;
 }
 
 .caixa16 {
-    margin-top: 1293px;
+    margin-top: 1630px;
 }
 
 .caixa17 {
-    margin-top: 1839px;
+    margin-top: 1965px;
 }
 
 .caixa18 {
-    margin-top: 1945px;
+    margin-top: 2233px;
 }
 
 .caixa19 {
-    margin-top: 1917px;
+    margin-top: 2073px;
 }
 
 .caixa20 {
-    margin-top: 1892px;
+    margin-top: 2233px;
 }
 
 #roda {
-   margin-top: 2555px;
+   margin-top: 2800px;
 }

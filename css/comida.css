@@ -2,7 +2,6 @@
 
 h1 {
     background-color: #00a000;
-    width: 250px;
     margin: 139px 0 0 445px;
 }
 
@@ -45,43 +44,51 @@ h6 {
 }
 
 .box1, .box2, .box3, .box4 {
-    margin-top: 75px;
+    margin-top: 300px;
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 252px;
+    margin-top: 477px;
 }
 
-.caixa9, .caixa10, .caixa11 {
-    margin-top: 947px;
+.caixa9, .caixa10 {
+    margin-top: 1172px;
+}
+
+.caixa11 {
+    margin-top: 1147px;
 }
 
 .caixa12 {
-    margin-top: 975px;
+    margin-top: 1200px;
 }
 
 .caixa13 {
-    margin-top:  1695px;
+    margin-top:  1922px;
 }
 
 .caixa14 {
-    margin-top:  1670px;
+    margin-top:  1870px;
 }
 
-.caixa15, .caixa16 {
-    margin-top: 1645px;
+.caixa15 {
+    margin-top: 1845px;
 }
 
-.caixa17, .caixa18 {
-    margin-top: 2417px;
+.caixa16 {
+    margin-top: 1870px;
 }
 
-.caixa19 {
-    margin-top: 2367px;
+.caixa17 {
+    margin-top: 2650px;
 }
 
-.caixa20 {
-    margin-top: 2340px;
+.caixa18 {
+    margin-top: 2593px;
+}
+
+.caixa19, .caixa20 {
+    margin-top: 2567px;
 }
 
 #de {
@@ -89,7 +96,5 @@ h6 {
 }
 
 #roda {
-    margin-top: 3275px;
+    margin-top: 3450px;
 }
-
-<li><a id='Menu' href ='../arcebangu/bangu.html'>Bangu</a></li>

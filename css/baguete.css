@@ -2,7 +2,6 @@
 
 h1 {
     background-color: #00a000;
-    width: 240px;
     margin: 139px 0 0 460px;
 }
 
@@ -29,15 +28,15 @@ h6 {
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
-    margin-top: 75px;
+    margin-top: 300px;
 }
 
 .caixa5 {
-    margin-top: 767px;
+    margin-top: 995px;
 }
 
 .caixa6 {
-    margin-top: 822px;
+    margin-top: 1047px;
 }
 
 #de {
@@ -45,5 +44,5 @@ h6 {
 }
 
 #roda {
-    margin-top: 1650px;
+    margin-top: 1815px;
 }
