@@ -48,7 +48,7 @@ h3 {
 }
 
 .caixa9 {
-    margin-top: 917px;
+    margin-top: 950px;
 }
 
 .caixa10 {
@@ -64,7 +64,7 @@ h3 {
 }
 
 .caixa13  {
-    margin-top: 1440px;
+    margin-top: 1473px;
 }
 
 .caixa14  {
@@ -93,6 +93,25 @@ h3 {
 
 .caixa20 {
     margin-top: 2233px;
+}
+
+#um, #dois {
+    position: relative;
+    margin: 8px 25px 0 25px;
+    font-size: 15.5px;
+    letter-spacing: .055em;
+    color: red;
+    font-weight: 700;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+#um {
+    margin: -3px 25px 0 55px;
+} 
+
+#dois {
+    margin: -22px 25px 0 140px;
 }
 
 #roda {

@@ -4,11 +4,17 @@ body {
     margin: 0;
     background-color: #494949;
     padding: 0;
+    width: 100%;
 }
 
 #site {
     width: 1300px;
     margin: -39px auto;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(202, 212, 238);
 }
 
 #menu {
@@ -167,6 +173,14 @@ h5 {
     padding: 0 0 0 5px;
     text-decoration: line-through;
     font-size: 14px;
+}
+
+#preço2 {
+    margin: 38px 0 0 -5px;
+}
+
+#preço3 {
+    margin: -33px 0 0 84px;
 }
 
 #de {

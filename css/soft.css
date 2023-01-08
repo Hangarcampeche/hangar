@@ -18,21 +18,29 @@ h3 {
     margin-top: 300px;
 }
 
-.caixa5, .caixa6 {
-    margin-top: 737px;
-}
-.caixa7, .caixa8 {
-    margin-top: 825px;
+.caixa5 {
+    margin-top: 767px;
 }
 
-.caixa9, .caixa10 {
-    margin-top: 1172px;
+#um, #dois {
+    position: relative;
+    margin: 8px 25px 0 25px;
+    font-size: 15.5px;
+    letter-spacing: .055em;
+    color: red;
+    font-weight: 700;
+    line-height: 1.50;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 
-.caixa11 {
-    margin-top: 1260px;
+#um {
+    margin: -3px 25px 0 55px;
+} 
+
+#dois {
+    margin: -22px 25px 0 140px;
 }
 
 #roda {
-   margin-top: 1720px;
+   margin-top: 1273px;
 }
