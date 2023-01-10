@@ -13,13 +13,31 @@ h3 {
     margin: 295px 0 0 15px;
 }
 
-
-h6 {
+h2 {
     position: relative;
     font-family: 'Droid Serif', serif;
     font-size: 42px;
     color: white;
     letter-spacing: .082em;
+    margin-top: 95px;
+}
+
+h6 {
+    letter-spacing: .092em;
+    margin: -20px  0 0 110px;
+    font-size: 14px;
+    color: red;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
+}
+
+.texto p {
+    letter-spacing: .092em;
+    margin: -20px  0 0 110px;
+    font-size: 14px;
+    color: red;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
 }
 
 .sub {
