@@ -180,7 +180,7 @@ footer {
     position: relative;
     width: 1519px;
     margin: auto;
-    height: 475px;
+    height: 275px;
     background-color: #A61407;
 }
 
@@ -189,25 +189,16 @@ footer {
     margin: 20px 0 0 610px;
 }
 
-#texto, #texto2 {
+#texto {
     position: absolute;
     padding: 0 70px 0 0;
+    margin: 120px 0 0 580px; 
+    font-size: 18px;
     font-family: arial;
     line-height: 1.50;
     letter-spacing: .092em;
     color: white;
 } 
-
-#texto {
-     margin: 120px 0 0 580px; 
-     font-size: 18px;
-}
-
-#texto2 {
-     margin: 220px 0 0 310px; 
-     font-size: 20px;
-     padding: 0 300px 0 0;
-}
 
 #img2 img, #img3 img, #img4 img {
     position: absolute;
@@ -216,13 +207,13 @@ footer {
 }
 
 #img2 img {
-    margin: 410px 0 0 650px;
+    margin: 210px 0 0 650px;
 }
 
 #img3 img {
-    margin: 410px 0 0 715px;
+    margin: 210px 0 0 715px;
 }
 
 #img4 img {
-    margin: 410px 0 0 815px;
+    margin: 210px 0 0 815px;
 }
