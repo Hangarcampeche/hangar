@@ -27,12 +27,8 @@ h6 {
     margin-top: 300px;
 }
 
-.caixa5 {
+.caixa5, .caixa6 {
     margin-top: 995px;
-}
-
-.caixa6 {
-    margin-top: 992px;
 }
 
 #de {
@@ -40,5 +36,5 @@ h6 {
 }
 
 #roda {
-    margin-top: 2515px;
+    margin-top: 1735px;
 }

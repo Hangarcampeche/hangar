@@ -27,36 +27,12 @@ h6 {
     margin-top: 300px;
 }
 
-.caixa5 {
-    margin-top: 1075px;
-}
-
-.caixa6, .caixa7 {
-    margin-top: 995px;
-}
-
-.caixa8 {
+.caixa5, .caixa6 {
     margin-top: 1022px;
 }
 
-.caixa9 {
-    margin-top: 1797px;
-}
-
-.caixa10, .caixa11, .caixa12 {
-    margin-top: 1719px;
-}
-
-.caixa13 {
-    margin-top: 2497px;
-}
-
-.caixa14, .caixa15 {
-    margin-top:  2418px;
-}
-
-.caixa16 {
-    margin-top: 2444px;
+.caixa7, .caixa8 {
+    margin-top: 995px;
 }
 
 #de {
@@ -64,5 +40,5 @@ h6 {
 }
 
 #roda {
-    margin-top: 3215px;
+    margin-top: 1735px;
 }
