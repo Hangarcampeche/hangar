@@ -31,11 +31,13 @@ h6 {
 
 .box1, .box2, .box3, .box4 {
     height: 135px;
+    margin-top: 300px;
 }
 
 .box1 {
     margin-left: 81px;
 }
+
 
 .box2 {
     margin-left: 350px;
@@ -47,10 +49,6 @@ h6 {
 
 .box4 {
     margin-left: 890px;
-}
-
-.box1, .box2, .box3, .box4 {
-    margin-top: 300px;
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
