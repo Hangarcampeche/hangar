@@ -89,8 +89,14 @@ body {
 }
 
 #site {
-    width: 1300px;
     margin: -39px auto;
+}
+
+@media (max-width: 600px) {
+  #site {
+    width: 600px;
+    margin: -39px auto;
+}
 }
 
 #menu {
