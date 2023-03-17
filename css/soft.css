@@ -25,8 +25,14 @@ h3 {
 }
 
 @media (max-width: 600px) {
-  .caixa3, .caixa4 {
+  .caixa3 {
     margin-top: 767px;
+}
+}
+
+@media (max-width: 600px) {
+  .caixa4 {
+    margin-top: 820px;
 }
 }
 
@@ -36,7 +42,7 @@ h3 {
 
 @media (max-width: 600px) {
   .caixa5 {
-    margin-top: 1234px;
+    margin-top: 1258px;
 }
 }
 
@@ -65,7 +71,7 @@ h3 {
 
 @media (max-width: 600px) {
   #roda {
-   margin-top: 1740px;
+   margin-top: 1765px;
 }
 }
 
@@ -89,6 +95,7 @@ body {
 }
 
 #site {
+    width: 1300px;
     margin: -39px auto;
 }
 
@@ -101,7 +108,7 @@ body {
 
 #menu {
    position: relative;
-   width: 1519px;
+   width: 100%;
    height: 50px;
    background-color: #A61407;
    box-shadow: 0 0 1px  black;
@@ -111,6 +118,14 @@ nav ul {
    position: relative;
    width: 1150px;
    margin: 0px auto;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+   position: relative;
+   width: 540px;
+   margin: 0px auto;
+}  
 }
 
 nav li {
@@ -138,7 +153,7 @@ nav li a, nav li #Menu {
 
 @media (max-width: 600px) {
   nav li a, nav li #Menu {
-    left: -50px;
+    left: 97px;
 }
 }
 
@@ -188,12 +203,6 @@ h5 {
     width: 250px;
     background-color: white;
     position: absolute;
-}
-
-@media (max-width: 600px) {
-  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
-    background-color: red;
-}
 }
 
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa01, .caixa05, .caixa07, .caixa011, .caixa013, .caixa017 {
@@ -296,7 +305,7 @@ h5 {
 
 footer {
     position: relative;
-    width: 1519px;
+    width: 100%;
     margin: auto;
     height: 275px;
     background-color: #A61407;
@@ -305,6 +314,13 @@ footer {
 #img1 {
     position: absolute;
     margin: 20px 0 0 610px;
+}
+
+@media (max-width: 600px) {
+  #img1 {
+    position: absolute;
+    margin: 20px 0 0 138px;
+}
 }
 
 #texto {
@@ -318,6 +334,12 @@ footer {
     color: white;
 } 
 
+@media (max-width: 600px) {
+  #texto {
+    margin: 120px 0 0 100px; 
+} 
+}
+
 #img2 img, #img3 img, #img4 img {
     position: absolute;
     border-radius: 10px;
@@ -327,10 +349,28 @@ footer {
     margin: 210px 0 0 650px;
 }
 
+@media (max-width: 600px) {
+  #img2 img {
+    margin: 210px 0 0 178px;
+}   472
+}
+
 #img3 img {
     margin: 210px 0 0 715px;
 }
 
+@media (max-width: 600px) {
+  #img3 img {
+    margin: 210px 0 0 243px;
+}   
+}
+
 #img4 img {
     margin: 210px 0 0 815px;
+}
+
+@media (max-width: 600px) {
+  #img4 img {
+    margin: 210px 0 0 343px;
+}   
 }
