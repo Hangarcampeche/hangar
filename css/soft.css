@@ -26,13 +26,13 @@ h3 {
 
 @media (max-width: 720px) {
   .caixa3 {
-    margin-top: 767px;
+    margin-top: 797px;
 }
 }
 
 @media (max-width: 720px) {
   .caixa4 {
-    margin-top: 820px;
+    margin-top: 850px;
 }
 }
 
@@ -42,27 +42,8 @@ h3 {
 
 @media (max-width: 720px) {
   .caixa5 {
-    margin-top: 1258px;
+    margin-top: 1294px;
 }
-}
-
-#um, #dois {
-    position: relative;
-    margin: 8px 25px 0 25px;
-    font-size: 15.5px;
-    letter-spacing: .055em;
-    color: red;
-    font-weight: 700;
-    line-height: 1.50;
-    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-}
-
-#um {
-    margin: -3px 25px 0 55px;
-} 
-
-#dois {
-    margin: -22px 25px 0 140px;
 }
 
 #roda {
@@ -71,7 +52,7 @@ h3 {
 
 @media (max-width: 720px) {
   #roda {
-   margin-top: 1765px;
+   margin-top: 1808px;
 }
 }
 
@@ -169,6 +150,13 @@ h1 {
     font-weight: 500;
 }
 
+@media (max-width: 720px) {
+  h1 {
+    font-size: 40px;
+    margin-top: 130px;
+}
+}
+
 h3 {
     position: absolute;
     font-family: 'Helvetica', serif;
@@ -244,13 +232,13 @@ h5 {
 #img img {
     position: absolute;
     margin: 80px 0 0 480px;
-    width: 300px; 
+    width: 200px; 
     height: 140px;
 }
 
 @media (max-width: 720px) {
   #img img {
-    margin: 80px 0 0 -260px;
+    margin: 80px 0 0 -115px;
 }
 }
 
@@ -329,7 +317,7 @@ footer {
 @media (max-width: 720px) {
   #img1 {
     position: absolute;
-    margin: 20px 0 0 138px;
+    margin: 20px 0 0 95px;
 }
 }
 
@@ -346,7 +334,7 @@ footer {
 
 @media (max-width: 720px) {
   #texto {
-    margin: 120px 0 0 100px; 
+    margin: 120px 0 0 57px;
 } 
 }
 
@@ -361,7 +349,7 @@ footer {
 
 @media (max-width: 720px) {
   #img2 img {
-    margin: 210px 0 0 178px;
+    margin: 210px 0 0 138px;
 }   472
 }
 
@@ -371,7 +359,7 @@ footer {
 
 @media (max-width: 720px) {
   #img3 img {
-    margin: 210px 0 0 243px;
+    margin: 210px 0 0 193px;
 }   
 }
 
@@ -381,6 +369,6 @@ footer {
 
 @media (max-width: 720px) {
   #img4 img {
-    margin: 210px 0 0 343px;
+    margin: 210px 0 0 293px;
 }   
 }
