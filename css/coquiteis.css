@@ -2,7 +2,13 @@
 
 h1 {
     background-color: #ffa500;
-    margin: 139px 0 0 380px;
+    margin: 139px 0 0 426px;
+}
+
+@media (max-width: 720px) {
+  h1 {
+     margin: 139px 0 0 40px;
+}
 }
 
 h3 {
@@ -18,78 +24,104 @@ h3 {
     margin-top: 300px;
 }
 
-.caixa5 {
-    margin-top: 795px;
+@media (max-width: 720px) {
+  .caixa3, .caixa4 {
+    margin-top: 900px;
+}
 }
 
-.caixa6 {
-    margin-top: 822px;
+.caixa5, .caixa6, .caixa7 {
+    margin-top: 872px;
 }
 
-.caixa7, .caixa8 {
-    margin-top: 848px;
+@media (max-width: 720px) {
+  .caixa5, .caixa6 {
+    margin-top: 1525px;
+}
+}
+
+@media (max-width: 720px) {
+  .caixa7 {
+    margin-top: 2100px;
+}
+}
+
+.caixa8 {
+    margin-top: 900px;
+}
+
+@media (max-width: 720px) {
+  .caixa8 {
+    margin-top: 2074px;
+}
 }
 
 .caixa9 {
-    margin-top: 1320px;
+    margin-top: 1419px;
+}
+
+@media (max-width: 720px) {
+  .caixa9 {
+    margin-top: 2700px;
+}
 }
 
 .caixa10 {
-    margin-top: 1373px;
+    margin-top: 1392px;
 }
 
-.caixa11, .caixa12 {
-    margin-top: 1398px;
+@media (max-width: 720px) {
+  .caixa10 {
+    margin-top: 2700px;
+}
 }
 
-.caixa13 {
-    margin-top: 1871px;
+.caixa11 {
+    margin-top: 1445px;
 }
 
-.caixa14 {
-    margin-top: 1923px;
+@media (max-width: 720px) {
+  .caixa11 {
+    margin-top: 3273px;
+}
 }
 
-.caixa15,.caixa16 {
-    margin-top: 1947px;
+.caixa12 {
+    margin-top: 1500px;
 }
 
-.caixa17 {
-    margin-top: 2447px;
+@media (max-width: 720px) {
+  .caixa12 {
+    margin-top: 3325px;
+}
 }
 
-.caixa18 {
-    margin-top: 2498px;
+.caixa13, .caixa14 {
+    margin-top: 1968px;
 }
 
-.caixa19, .caixa20 {
-    margin-top: 2470px;
+@media (max-width: 720px) {
+  .caixa13 {
+    margin-top: 3848px;
+}
 }
 
-.caixa21 {
-    margin-top: 3023px;
+@media (max-width: 720px) {
+  .caixa14 {
+    margin-top: 3899px;
+}
 }
 
-.caixa22, .caixa23 {
-    margin-top: 3073px;
-}
-
-.caixa24 {
-    margin-top: 3020px;
-}
-
-.caixa25 {
-    margin-top: 3571px;
-}
-
-.caixa26 {
-    margin-top: 3622px;
-}
-
-.caixa27 {
-    margin-top: 3595px;
+#sanduba p  {
+    padding-top: 40px;
 }
 
 #roda {
-   margin-top: 4205px;
+    margin-top: 2535px;
+}
+
+@media (max-width: 720px) {
+  #roda {
+    margin-top: 4515px;
+}
 }

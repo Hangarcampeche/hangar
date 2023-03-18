@@ -5,6 +5,12 @@ h1 {
     margin: 139px 0 0 420px;
 }
 
+@media (max-width: 720px) {
+  h1 {
+    margin: 139px 0 0 40px;
+}
+}
+
 h3 {
     background-color: #FFA500;
     margin: 295px 0 0 15px;
@@ -18,26 +24,74 @@ h3 {
     margin-top: 300px;
 }
 
+@media (max-width: 720px) {
+  .caixa3, .caixa4 {
+    margin-top: 795px;
+}
+}
+
 .caixa5, .caixa6 {
     margin-top: 770px;
+}
+
+@media (max-width: 720px) {
+  .caixa5 {
+    margin-top: 1370px;
+}
+}
+
+@media (max-width: 720px) {
+  .caixa6 {
+    margin-top: 1345px;
+}
 }
 
 .caixa7 {
     margin-top: 847px;
 }
 
+@media (max-width: 720px) {
+  .caixa7 {
+    margin-top: 1970px;
+}
+}
+
 .caixa8 {
     margin-top: 823px;
+}
+
+@media (max-width: 720px) {
+  .caixa8 {
+    margin-top: 1920px;
+}
 }
 
 .caixa9 {
    margin-top: 1343px;
 }
 
+@media (max-width: 720px) {
+  .caixa9 {
+    margin-top: 2595px;
+}
+}
+
 .caixa10 {
     margin-top: 1318px;
 }
 
+@media (max-width: 720px) {
+  .caixa10 {
+    margin-top: 2495px;
+}
+}
+
 #roda {
    margin-top: 1940px;
+}
+
+@media (max-width: 720px) {
+  #roda {
+   margin-top: 3212px;
+}
 }

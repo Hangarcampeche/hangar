@@ -12,9 +12,15 @@ body {
     margin: -39px auto;
 }
 
+@media (max-width: 720px) {
+  #site {
+    width: 720px;
+}
+}
+
 #menu {
    position: relative;
-   width: 1519px;
+   width: 100%;
    height: 50px;
    background-color: #A61407;
    box-shadow: 0 0 1px  black;
@@ -24,6 +30,12 @@ nav ul {
    position: relative;
    width: 1150px;
    margin: 0px auto;
+}
+
+@media (max-width: 720px) {
+  nav ul {
+   width: 400px;
+}  
 }
 
 nav li {
@@ -49,6 +61,12 @@ nav li a, nav li #Menu {
     text-decoration: none;
 }
 
+@media (max-width: 720px) {
+  nav li a, nav li #Menu {
+    left: 35px;
+}
+}
+
 h1 {
     position: absolute;
     margin-top: 115px;
@@ -59,6 +77,13 @@ h1 {
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 500;
+}
+
+@media (max-width: 720px) {
+  h1 {
+    font-size: 40px;
+    margin-top: 130px;
+}
 }
 
 h3 {
@@ -97,6 +122,12 @@ h5 {
     position: absolute;
 }
 
+@media (max-width: 720px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
+    width: 210px;
+}
+}
+
 .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa01, .caixa05, .caixa07, .caixa011, .caixa013, .caixa017 {
     margin-left: 81px;
 }
@@ -109,15 +140,34 @@ h5 {
     margin-left: 620px;
 }
 
+@media (max-width: 720px) {
+  .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa01, .caixa05, .caixa07, .caixa011, .caixa013, .caixa017, .caixa3, .caixa7, .caixa11, .caixa15, .caixa19, .caixa23, .caixa27, .caixa03, .caixa09, .caixa015 {
+    margin-left: -18px;
+}
+}
+
 .caixa4, .caixa8, .caixa12, .caixa16, .caixa20, .caixa24, .caixa04, .caixa010, .caixa016 {
     margin-left: 890px;
 }
 
-#img {
-    position: absolute;
-    margin: 80px 0 0 890px;
+@media (max-width: 720px) {
+  .caixa2, .caixa6, .caixa10, .caixa14, .caixa18, .caixa22, .caixa26, .caixa02, .caixa06, .caixa08, .caixa012, .caixa014, .caixa018, .caixa4, .caixa8, .caixa12, .caixa16, .caixa20, .caixa24, .caixa04, .caixa010, .caixa016 {
+    margin-left: 213px;
+}
 }
 
+#img img {
+    position: absolute;
+    margin: 80px 0 0 480px;
+    width: 200px; 
+    height: 140px;
+}
+
+@media (max-width: 720px) {
+  #img img {
+    margin: 80px 0 0 -115px;
+}
+}
 
 #buteco ul li {
     position: absolute;
@@ -179,7 +229,7 @@ h5 {
 
 footer {
     position: relative;
-    width: 1519px;
+    width: 100%;
     margin: auto;
     height: 275px;
     background-color: #A61407;
@@ -188,6 +238,13 @@ footer {
 #img1 {
     position: absolute;
     margin: 20px 0 0 610px;
+}
+
+@media (max-width: 720px) {
+  #img1 {
+    position: absolute;
+    margin: 20px 0 0 95px;
+}
 }
 
 #texto {
@@ -201,6 +258,12 @@ footer {
     color: white;
 } 
 
+@media (max-width: 720px) {
+  #texto {
+    margin: 120px 0 0 57px;
+} 
+}
+
 #img2 img, #img3 img, #img4 img {
     position: absolute;
     border-radius: 10px;
@@ -210,10 +273,28 @@ footer {
     margin: 210px 0 0 650px;
 }
 
+@media (max-width: 720px) {
+  #img2 img {
+    margin: 210px 0 0 138px;
+}
+}
+
 #img3 img {
     margin: 210px 0 0 715px;
 }
 
+@media (max-width: 720px) {
+  #img3 img {
+    margin: 210px 0 0 193px;
+}   
+}
+
 #img4 img {
     margin: 210px 0 0 815px;
+}
+
+@media (max-width: 720px) {
+  #img4 img {
+    margin: 210px 0 0 293px;
+}   
 }
