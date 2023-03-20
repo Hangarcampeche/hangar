@@ -5,7 +5,7 @@ h1 {
     margin: 139px 0 0 420px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   h1 {
     margin: 139px 0 0 40px;
 }
@@ -24,7 +24,7 @@ h3 {
     margin-top: 300px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa3, .caixa4 {
     margin-top: 795px;
 }
@@ -34,13 +34,13 @@ h3 {
     margin-top: 770px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa5 {
     margin-top: 1370px;
 }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa6 {
     margin-top: 1345px;
 }
@@ -50,7 +50,7 @@ h3 {
     margin-top: 847px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa7 {
     margin-top: 1970px;
 }
@@ -60,7 +60,7 @@ h3 {
     margin-top: 823px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa8 {
     margin-top: 1920px;
 }
@@ -70,7 +70,7 @@ h3 {
    margin-top: 1343px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa9 {
     margin-top: 2595px;
 }
@@ -80,7 +80,7 @@ h3 {
     margin-top: 1318px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   .caixa10 {
     margin-top: 2495px;
 }
@@ -90,7 +90,7 @@ h3 {
    margin-top: 1940px;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 540px) {
   #roda {
    margin-top: 3212px;
 }

@@ -212,12 +212,26 @@ h5 {
     font-size: 14px;
 }
 
+@media (max-width: 720px) {
+  #preço2 p {
+    font-size: 10px;
+    left:-5px;
+}
+}
+
 #preço2 {
     margin: 43px 0 0 -5px;
 }
 
 #preço3 {
     margin: -33px 0 0 84px;
+}
+
+@media (max-width: 720px) {
+  #preço3 p {
+    left: -21px;
+    width: 200px;
+}
 }
 
 #de {

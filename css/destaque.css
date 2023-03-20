@@ -5,6 +5,12 @@ h1 {
     margin: 139px 0 0 372px;
 }
 
+@media (max-width: 540px) {
+  h1 {
+    margin: 139px 0 0 40px;
+}
+}
+
 h3 {
     background-color: #A61407;
     color: white;
@@ -20,6 +26,12 @@ h2 {
     color: white;
     letter-spacing: .082em;
     margin-top: 95px;
+}
+
+@media (max-width: 540px) {
+ h2 {
+    font-size: 35px;
+}
 }
 
 h6 {
@@ -45,14 +57,32 @@ h6 {
     margin: 195px 0 0 220px;   
 }
 
+@media (max-width: 540px) {
+ .sub {
+    margin: 195px 0 0 0px;
+}
+}
+
 .sub2 {
     position: absolute;
     margin: 1050px 0 0 220px;   
 }
 
+@media (max-width: 540px) {
+ .sub2 {
+    margin: 1050px 0 0 0px;
+}
+}
+
 .sub3 {
     position: absolute;
     margin: 1950px 0 0 220px;   
+}
+
+@media (max-width: 540px) {
+ .sub3 {
+    margin: 1950px 0 0 0px;
+}
 }
 
 #dee {
