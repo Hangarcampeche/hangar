@@ -5,7 +5,7 @@ h1 {
     margin: 139px 0 0 480px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 500px) {
   h1 {
     margin: 139px 0 0 40px;
 }
@@ -24,13 +24,13 @@ h3 {
     margin-top: 300px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 500px) {
   .caixa3 {
     margin-top: 797px;
 }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 500px) {
   .caixa4 {
     margin-top: 850px;
 }
@@ -40,7 +40,7 @@ h3 {
     margin-top: 767px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 500px) {
   .caixa5 {
     margin-top: 1294px;
 }
@@ -50,7 +50,7 @@ h3 {
    margin-top: 1273px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 500px) {
   #roda {
    margin-top: 1808px;
 }
