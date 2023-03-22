@@ -260,7 +260,9 @@ footer {
 @media (max-width: 700px) {
   #img1 {
     position: absolute;
-    margin: 20px 0 0 95px;
+    margin: 0 50% 0 50%;
+    top: 0.8em;
+    left: -10em;
 }
 }
 
@@ -277,7 +279,10 @@ footer {
 
 @media (max-width: 700px) {
   #texto {
-    margin: 120px 0 0 57px;
+    margin: 0 50% 0 50%;
+    top: 7em;
+    left: -11em;
+    width: 368px;
 } 
 }
 
@@ -292,7 +297,9 @@ footer {
 
 @media (max-width: 700px) {
   #img2 img {
-    margin: 210px 0 0 138px;
+    margin: 0 50% 0 50%;
+    top: 13em;
+    left: -6.9em;
 }
 }
 
@@ -302,7 +309,9 @@ footer {
 
 @media (max-width: 700px) {
   #img3 img {
-    margin: 210px 0 0 193px;
+    margin: 0 50% 0 50%;
+    top: 13em;
+    left: -3em;
 }   
 }
 
@@ -312,6 +321,8 @@ footer {
 
 @media (max-width: 700px) {
   #img4 img {
-    margin: 210px 0 0 293px;
+    margin: 0 50% 0 50%;
+    top: 13em;
+    left: 3em;
 }   
 }
