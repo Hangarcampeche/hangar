@@ -12,7 +12,7 @@ body {
     margin: -39px auto;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #site {
     width: 100%;
 }
@@ -28,11 +28,11 @@ body {
         
 nav ul {
    position: relative;
-   width: 1150px;
+   width: 1045px;
    margin: 0px auto;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   nav ul {
    width: 400px;
 }  
@@ -61,7 +61,7 @@ nav li a, nav li #Menu {
     text-decoration: none;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   nav li a, nav li #Menu {
     left: 35px;
 }
@@ -79,7 +79,7 @@ h1 {
     font-weight: 500;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   h1 {
     font-size: 40px;
     margin-top: 130px;
@@ -122,7 +122,7 @@ h5 {
     position: absolute;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
     width: 210px;
 }
@@ -148,14 +148,14 @@ h5 {
     left: 275px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   .caixa1, .caixa5, .caixa9, .caixa13, .caixa17, .caixa21, .caixa25, .caixa01, .caixa05, .caixa07, .caixa011, .caixa013, .caixa017, .caixa3, .caixa7, .caixa11, .caixa15, .caixa19, .caixa23, .caixa27, .caixa03, .caixa09, .caixa015 {
     margin: 0 50% 0 50%;
     left: -13.9em;
 }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   .caixa2, .caixa6, .caixa10, .caixa14, .caixa18, .caixa22, .caixa26, .caixa02, .caixa06, .caixa08, .caixa012, .caixa014, .caixa018, .caixa4, .caixa8, .caixa12, .caixa16, .caixa20, .caixa24, .caixa04, .caixa010, .caixa016 {
     margin: 0 50% 0 50%;
     left: 0.5em;
@@ -169,10 +169,12 @@ h5 {
     left: 240px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #img img {
-    margin: 80px 0 0 -115px;
-    max-width: 100%;
+    margin: 0 50% 0 50%;
+    max-width: 220px;
+    top: 95px;
+    left: 0px;
 }
 }
 
@@ -219,7 +221,7 @@ h5 {
     font-size: 14px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #preço2 p {
     font-size: 10px;
     left:-5px;
@@ -234,7 +236,7 @@ h5 {
     margin: -33px 0 0 84px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #preço3 p {
     left: -21px;
     width: 200px;
@@ -258,10 +260,12 @@ footer {
 
 #img1 {
     position: absolute;
-    margin: 20px 0 0 610px;
+    margin: 0 50% 0 50%;
+    top: 20px;
+    left: -150px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #img1 {
     position: absolute;
     margin: 0 50% 0 50%;
@@ -273,7 +277,10 @@ footer {
 #texto {
     position: absolute;
     padding: 0 70px 0 0;
-    margin: 120px 0 0 580px; 
+    margin: 0 50% 0 50%; 
+    top: 120px;
+    left: -180px;
+    width: 358px;
     font-size: 18px;
     font-family: arial;
     line-height: 1.50;
@@ -281,7 +288,7 @@ footer {
     color: white;
 } 
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #texto {
     margin: 0 50% 0 50%;
     top: 7em;
@@ -296,10 +303,12 @@ footer {
 }
 
 #img2 img {
-    margin: 210px 0 0 650px;
+    margin: 0 50% 0 50%;
+    top: 210px;
+    left: -112px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #img2 img {
     margin: 0 50% 0 50%;
     top: 13em;
@@ -308,10 +317,12 @@ footer {
 }
 
 #img3 img {
-    margin: 210px 0 0 715px;
+    margin: 0 50% 0 50%;
+    top: 210px;
+    left: -45px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #img3 img {
     margin: 0 50% 0 50%;
     top: 13em;
@@ -320,10 +331,12 @@ footer {
 }
 
 #img4 img {
-    margin: 210px 0 0 815px;
+    margin: 0 50% 0 50%;
+    top: 210px;
+    left: 58px;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1100px) {
   #img4 img {
     margin: 0 50% 0 50%;
     top: 13em;

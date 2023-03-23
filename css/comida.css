@@ -5,9 +5,11 @@ h1 {
     margin: 139px 0 0 445px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   h1 {
-    margin: 139px 0 0 40px;
+    margin: 0 50% 0 50%;
+    top: 9px;
+    left: -230px;
 }
 }
 
@@ -40,7 +42,7 @@ h6 {
     height: 135px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box1, .box2, .box13, .box4 {
     width: 210px;
 }
@@ -54,9 +56,9 @@ h6 {
     margin-left: 350px;
 }
 
-@media (max-width: 500px) {
-  .box1 {
-    margin-left: -18px;
+@media (max-width: 1100px) {
+  .box1, .box13 {
+    left: -222px;
 }
 }
 
@@ -64,145 +66,141 @@ h6 {
     margin-left: 620px;
 }
 
-@media (max-width: 500px) {
-  .box13 {
-    margin-left: -18px;
-}
-}
-
 .box4 {
     margin-left: 890px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box2, .box4 {
-    margin-left: 213px;
+    left: 10px;
 }
 }
 
 .box1, .box2, .box13, .box4 {
-    margin-top: 300px;
+    top: 300px;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 1100px) {
   .box1, .box2 {
-    margin-top: 300px;
+    margin: 0 50% 0 50%;
+    top: 300px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box4, .box13 {
-    margin-top: 477px;
+    margin: 0 50% 0 50%;
+    top: 477px;
 }
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 477px;
+    top: 477px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa5, .caixa6 {
-    margin-top: 655px;
+    top: 655px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa7, .caixa8 {
-    margin-top: 1405px;
+    top: 1405px;
 }
 }
 
 .caixa9, .caixa10, .caixa11 {
-    margin-top: 1172px;
+    top: 1172px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa9, .caixa10 {
-    margin-top: 2154px;
+    top: 2154px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa11 {
-    margin-top: 2983px;
+    top: 2983px;
 }
 }
 
 .caixa12 {
-    margin-top: 1200px;
+    top: 1200px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa12 {
-    margin-top: 2930px;
+    top: 2930px;
 }
 }
 
 .caixa13 {
-    margin-top:  1922px;
+    top:  1922px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa13 {
-    margin-top: 3732px;
+    top: 3732px;
 }
 }
 
 .caixa14, .caixa15, .caixa16 {
-    margin-top:  1870px;
+    top:  1870px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa14 {
-    margin-top: 3655px;
+    top: 3655px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa15 {
-    margin-top: 4515px;
+    top: 4515px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa16 {
-    margin-top: 4433px;
+    top: 4433px;
 }
 }
 
 .caixa17 {
-    margin-top: 2650px;
+    top: 2650px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa17 {
-    margin-top: 5268px;
+    top: 5268px;
 }
 }
 
 .caixa18, .caixa19 {
-    margin-top: 2593px;
+    top: 2593px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa18 {
-    margin-top: 5158px;
+    top: 5158px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa19 {
-    margin-top: 6100px;
+    top: 6100px;
 }
 }
 
 .caixa20 {
-    margin-top: 2567px;
+    top: 2567px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa20 {
-    margin-top: 5910px;
+    top: 5910px;
 }
 }
 

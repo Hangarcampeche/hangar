@@ -5,9 +5,11 @@ h1 {
     margin: 139px 0 0 426px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   h1 {
-     margin: 139px 0 0 40px;
+    margin: 0 50% 0 50%;
+    top: 10px;
+    left: -5.5em;
 }
 }
 
@@ -21,94 +23,94 @@ h3 {
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
-    margin-top: 300px;
+    top: 300px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa3, .caixa4 {
-    margin-top: 900px;
+    top: 900px;
 }
 }
 
 .caixa5, .caixa6, .caixa7 {
-    margin-top: 872px;
+    top: 872px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa5, .caixa6 {
-    margin-top: 1525px;
+    top: 1525px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa7 {
-    margin-top: 2100px;
+    top: 2100px;
 }
 }
 
 .caixa8 {
-    margin-top: 900px;
+    top: 900px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa8 {
-    margin-top: 2074px;
+    top: 2074px;
 }
 }
 
 .caixa9 {
-    margin-top: 1419px;
+    top: 1419px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa9 {
-    margin-top: 2700px;
+    top: 2700px;
 }
 }
 
 .caixa10 {
-    margin-top: 1392px;
+    top: 1392px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa10 {
-    margin-top: 2700px;
+    top: 2700px;
 }
 }
 
 .caixa11 {
-    margin-top: 1445px;
+    top: 1445px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa11 {
-    margin-top: 3273px;
+    top: 3273px;
 }
 }
 
 .caixa12 {
-    margin-top: 1500px;
+    top: 1500px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa12 {
-    margin-top: 3325px;
+    top: 3325px;
 }
 }
 
 .caixa13, .caixa14 {
-    margin-top: 1968px;
+    top: 1968px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa13 {
-    margin-top: 3848px;
+    top: 3848px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa14 {
-    margin-top: 3899px;
+    top: 3899px;
 }
 }
 
@@ -120,7 +122,7 @@ h3 {
     margin-top: 2535px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   #roda {
     margin-top: 4515px;
 }

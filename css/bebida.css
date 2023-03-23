@@ -5,9 +5,11 @@ h1 {
     margin: 139px 0 0 400px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   h1 {
-    margin: 139px 0 0 40px;
+    margin: 0 50% 0 50%;
+    top: 10px;
+    left: -5.5em;
 }
 }
 
@@ -35,7 +37,7 @@ h3 {
     height: 135px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box1, .box2, .box13, .box4 {
     width: 210px;
 }
@@ -49,9 +51,9 @@ h3 {
     margin-left: 350px;
 }
 
-@media (max-width: 500px) {
-  .box1 {
-    margin-left: -18px;
+@media (max-width: 1100px) {
+  .box1, .box13 {
+    left: -222px;
 }
 }
 
@@ -59,187 +61,182 @@ h3 {
     margin-left: 620px;
 }
 
-@media (max-width: 500px) {
-  .box13 {
-    margin-left: -18px;
-}
-}
-
 .box4 {
     margin-left: 890px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box2, .box4 {
-    margin-left: 213px;
+    left: 10px;
 }
 }
 
 .box1, .box2, .box13, .box4 {
-    margin-top: 300px;
+    top: 300px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box1, .box2 {
-    margin-top: 300px;
+    margin: 0 50% 0 50%;
+    top: 300px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .box4, .box13 {
-    margin-top: 477px;
+    margin: 0 50% 0 50%;
+    top: 477px;
 }
 }
 
 .caixa5, .caixa6, .caixa7, .caixa8 {
-    margin-top: 480px;
+    top: 480px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa5, .caixa6 {
-    margin-top: 657px;
+    top: 657px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa7 {
-    margin-top: 1154px;
+    top: 1154px;
 }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa8 {
-    margin-top: 1257px;
+    top: 1257px;
 }
 }
 
 .caixa9 {
-    margin-top: 950px;
+    top: 950px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa9 {
-    margin-top: 1675px;
+    top: 1675px;
 }
 }
 
 .caixa10 {
-    margin-top: 1055px;
+    top: 1055px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa10 {
-    margin-top: 1857px;
+    top: 1857px;
 }
 }
 
 .caixa11 {
-    margin-top: 1001px;
+    top: 1001px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa11 {
-    margin-top: 2225px;
+    top: 2225px;
 }
 }
 
 .caixa12 {
-    margin-top: 1055px;
+    top: 1055px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa12 {
-    margin-top: 2485px;
+    top: 2485px;
 }
 }
 
 .caixa13  {
-    margin-top: 1473px;
+    top: 1473px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa13 {
-    margin-top: 2775px;
+    top: 2775px;
 }
 }
 
 .caixa14  {
-    margin-top: 1657px;
+    top: 1657px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa14 {
-    margin-top: 3085px;
+    top: 3085px;
 }
 }
 
 .caixa15 {
-    margin-top: 1525px;
+    top: 1525px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa15 {
-    margin-top: 3272px;
+    top: 3272px;
 }
 }
 
 .caixa16 {
-    margin-top: 1630px;
+    top: 1630px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa16 {
-    margin-top: 3713px;
+    top: 3713px;
 }
 }
 
 .caixa17 {
-    margin-top: 1965px;
+    top: 1965px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa17 {
-    margin-top: 3847px;
+    top: 3847px;
 }
 }
 
 .caixa18 {
-    margin-top: 2233px;
+    top: 2233px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa18 {
-    margin-top: 4370px;
+    top: 4370px;
 }
 }
 
 .caixa19 {
-    margin-top: 2073px;
+    top: 2073px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa19 {
-    margin-top: 4345px;
+    top: 4345px;
+    left: -200px;
 }
 }
 
 .caixa20 {
-    margin-top: 2233px;
+    top: 2233px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   .caixa20 {
-    margin-top: 4948px;
-    left: -190px;
+    top: 4948px;
 }
 }
-
 
 #roda {
    margin-top: 2800px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1100px) {
   #roda {
     margin-top: 5540px;
 }
