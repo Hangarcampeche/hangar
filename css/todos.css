@@ -15,17 +15,22 @@ body {
 @media (max-width: 1100px) {
   #site {
     width: 100%;
-    zoom: 200%;
+    zoom: 150%;
 }
 }
 
 #menu {
    position: relative;
    width: 100%;
-   zoom: 200%;
    height: 50px;
    background-color: #A61407;
    box-shadow: 0 0 1px  black;
+}
+
+@media (max-width: 1100px) {
+  #menu {
+   zoom: 150%;
+}  
 }
         
 nav ul {
@@ -255,10 +260,15 @@ h5 {
 footer {
     position: relative;
     width: 100%;
-    zoom: 200%;
     margin: auto;
     height: 275px;
     background-color: #A61407;
+}
+
+@media (max-width: 1100px) {
+  footer {
+   zoom: 150%;
+}  
 }
 
 #img1 {
