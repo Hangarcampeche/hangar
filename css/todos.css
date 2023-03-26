@@ -131,7 +131,7 @@ h5 {
 
 @media (max-width: 1100px) {
   .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
-    width: 210px;
+    width: 250px;
 }
 }
 
@@ -158,7 +158,7 @@ h5 {
 @media (max-width: 1100px) {
   .caixa1, .caixa3, .caixa5, .caixa7, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017 {
     margin: 0 50% 0 50%;
-    left: -14.4em;
+    left: -16.4em;
 }
 }
 
