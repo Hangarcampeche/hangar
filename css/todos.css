@@ -255,6 +255,7 @@ h5 {
 footer {
     position: relative;
     width: 100%;
+    zoom: 200%;
     margin: auto;
     height: 275px;
     background-color: #A61407;
