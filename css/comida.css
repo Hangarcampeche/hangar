@@ -44,7 +44,7 @@ h6 {
 
 @media (max-width: 1100px) {
   .box1, .box2, .box13, .box4 {
-    width: 210px;
+    width: 230px;
 }
 }
 
@@ -56,24 +56,12 @@ h6 {
     margin-left: 350px;
 }
 
-@media (max-width: 1100px) {
-  .box1, .box13 {
-    left: -222px;
-}
-}
-
 .box13 {
     margin-left: 620px;
 }
 
 .box4 {
     margin-left: 890px;
-}
-
-@media (max-width: 1100px) {
-  .box2, .box4 {
-    left: 10px;
-}
 }
 
 .box1, .box2, .box13, .box4 {
@@ -90,7 +78,7 @@ h6 {
 @media (max-width: 1100px) {
   .box4, .box13 {
     margin: 0 50% 0 50%;
-    top: 477px;
+    top: 487px;
 }
 }
 
@@ -100,13 +88,13 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa5, .caixa6 {
-    top: 655px;
+    top: 675px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa7, .caixa8 {
-    top: 1405px;
+    top: 1385px;
 }
 }
 
@@ -116,13 +104,13 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa9, .caixa10 {
-    top: 2154px;
+    top: 2124px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa11 {
-    top: 2983px;
+    top: 2885px;
 }
 }
 
@@ -132,7 +120,7 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa12 {
-    top: 2930px;
+    top: 2860px;
 }
 }
 
@@ -142,7 +130,7 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa13 {
-    top: 3732px;
+    top: 3590px;
 }
 }
 
@@ -152,19 +140,19 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa14 {
-    top: 3655px;
+    top: 3540px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa15 {
-    top: 4515px;
+    top: 4320px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa16 {
-    top: 4433px;
+    top: 4295px;
 }
 }
 
@@ -174,7 +162,7 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa17 {
-    top: 5268px;
+    top: 5050px;
 }
 }
 
@@ -184,13 +172,13 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa18 {
-    top: 5158px;
+    top: 5000px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa19 {
-    top: 6100px;
+    top: 5860px;
 }
 }
 
@@ -200,7 +188,7 @@ h6 {
 
 @media (max-width: 1100px) {
   .caixa20 {
-    top: 5910px;
+    top: 5730px;
 }
 }
 
@@ -209,5 +197,5 @@ h6 {
 }
 
 #roda {
-    margin-top: 6900px;
+    margin-top: 11890px;
 }
