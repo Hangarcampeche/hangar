@@ -28,7 +28,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa3, .caixa4 {
-    top: 900px;
+    top: 883px;
 }
 }
 
@@ -38,13 +38,13 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa5, .caixa6 {
-    top: 1525px;
+    top: 1500px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa7 {
-    top: 2100px;
+    top: 2060px;
 }
 }
 
@@ -54,7 +54,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa8 {
-    top: 2074px;
+    top: 2034px;
 }
 }
 
@@ -64,7 +64,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa9 {
-    top: 2700px;
+    top: 2645px;
 }
 }
 
@@ -74,7 +74,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa10 {
-    top: 2700px;
+    top: 2645px;
 }
 }
 
@@ -84,7 +84,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa11 {
-    top: 3273px;
+    top: 3230px;
 }
 }
 
@@ -94,7 +94,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa12 {
-    top: 3325px;
+    top: 3257px;
 }
 }
 
@@ -104,13 +104,13 @@ h3 {
 
 @media (max-width: 1100px) {
   .caixa13 {
-    top: 3848px;
+    top: 3815px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa14 {
-    top: 3899px;
+    top: 3842px;
 }
 }
 
@@ -124,6 +124,6 @@ h3 {
 
 @media (max-width: 1100px) {
   #roda {
-    margin-top: 4515px;
+    margin-top: 7900px;
 }
 }

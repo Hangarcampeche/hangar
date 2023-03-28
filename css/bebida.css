@@ -39,35 +39,7 @@ h3 {
 
 @media (max-width: 1100px) {
   .box1, .box2, .box13, .box4 {
-    width: 210px;
-}
-}
-
-.box1 {
-    margin-left: 81px;
-}
-
-.box2 {
-    margin-left: 350px;
-}
-
-@media (max-width: 1100px) {
-  .box1, .box13 {
-    left: -222px;
-}
-}
-
-.box13 {
-    margin-left: 620px;
-}
-
-.box4 {
-    margin-left: 890px;
-}
-
-@media (max-width: 1100px) {
-  .box2, .box4 {
-    left: 10px;
+    width: 230px;
 }
 }
 
@@ -85,7 +57,7 @@ h3 {
 @media (max-width: 1100px) {
   .box4, .box13 {
     margin: 0 50% 0 50%;
-    top: 477px;
+    top: 487px;
 }
 }
 
