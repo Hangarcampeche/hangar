@@ -17,13 +17,7 @@
 }
 
 #logo {
-    position: absolute;
     font-size: 80px;
-    color: white;
-    font-family:  sans-serif;
-    letter-spacing: .092em;
-    font-weight: 500;
-    margin: 0 50% 0 50%;
     top: 330px;
     left: -2.4em;
 }

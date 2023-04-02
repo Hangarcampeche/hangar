@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+#logo {
+    font-size: 60px;
+    top: 140px;
+    left: 4em;
+}
+
 h1 {
     margin: 139px 0 0 420px;
 }
