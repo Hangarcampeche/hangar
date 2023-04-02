@@ -24,7 +24,6 @@ body {
    width: 100%;
    height: 50px;
    background-color: #AD8501;
-   box-shadow: 0 0 1px  black;
 }
 
 @media (max-width: 1100px) {
@@ -74,7 +73,7 @@ nav li a, nav li #Menu {
 }
 }
 
-#logo {
+#logo, #logo1 {
     position: absolute;
     color: white;
     font-family:  sans-serif;
@@ -209,7 +208,6 @@ h6 {
 #buteco ul li {
     position: absolute;
     padding: 0 0 25px 0;
-    box-shadow: 0 0 1px  black;
     border-radius: 10px;
     overflow: hidden;
     display: block;
@@ -293,15 +291,21 @@ footer {
 }  
 }
 
-#img1 {
+#img01 {
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 20px;
-    left: -150px;
+    top: 40px;
+    left: -12.4em;
+}
+
+#logo1 {
+    font-size: 60px;
+    top: 45px;
+    left: -1.6em;
 }
 
 @media (max-width: 1100px) {
-  #img1 {
+  #img01 {
     position: absolute;
     margin: 0 50% 0 50%;
     top: 0.8em;
@@ -332,47 +336,54 @@ footer {
 } 
 }
 
-#img2 img, #img3 img, #img4 img {
+#img2 p, #img3 p, #img4 p {
     position: absolute;
-    border-radius: 10px;
+    color: #AD8501;
+    background-color: white;
+    font-family:  sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
+    margin: 0 50% 0 50%;
+    padding: 10px;
+    
 }
 
-#img2 img {
+#img2 p {
     margin: 0 50% 0 50%;
     top: 210px;
-    left: -112px;
+    left: -182px;
 }
 
 @media (max-width: 1100px) {
-  #img2 img {
+  #img2 p {
     margin: 0 50% 0 50%;
     top: 13em;
     left: -6.9em;
 }
 }
 
-#img3 img {
+#img3 p {
     margin: 0 50% 0 50%;
     top: 210px;
-    left: -45px;
+    left: -30px;
 }
 
 @media (max-width: 1100px) {
-  #img3 img {
+  #img3 p {
     margin: 0 50% 0 50%;
     top: 13em;
     left: -3em;
 }   
 }
 
-#img4 img {
+#img4 p {
     margin: 0 50% 0 50%;
     top: 210px;
-    left: 58px;
+    left: 75px;
 }
 
 @media (max-width: 1100px) {
-  #img4 img {
+  #img4 p {
     margin: 0 50% 0 50%;
     top: 13em;
     left: 3em;
