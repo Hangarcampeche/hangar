@@ -197,11 +197,11 @@ h6 {
 }
 
 @media (max-width: 1100px) {
-  #img img {
+  #img img, #img1 img {
     margin: 0 50% 0 50%;
     max-width: 220px;
     top: 95px;
-    left: 0px;
+    left: -87px;
 }
 }
 
@@ -308,8 +308,8 @@ footer {
   #img01 {
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 0.8em;
-    left: -10em;
+    top: 2.2em;
+    left: -13em;
 }
 }
 
@@ -331,7 +331,7 @@ footer {
   #texto {
     margin: 0 50% 0 50%;
     top: 7em;
-    left: -11em;
+    left: -10em;
     width: 368px;
 } 
 }
@@ -358,7 +358,7 @@ footer {
   #img2 p {
     margin: 0 50% 0 50%;
     top: 13em;
-    left: -6.9em;
+    left: -11.6em;
 }
 }
 
@@ -372,7 +372,7 @@ footer {
   #img3 p {
     margin: 0 50% 0 50%;
     top: 13em;
-    left: -3em;
+    left: -2.5em;
 }   
 }
 
@@ -386,6 +386,6 @@ footer {
   #img4 p {
     margin: 0 50% 0 50%;
     top: 13em;
-    left: 3em;
+    left: 3.5em;
 }   
 }
