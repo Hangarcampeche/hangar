@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 h1 {
-    background-color: #00a000;
     margin: 139px 0 0 445px;
 }
 
@@ -25,16 +24,6 @@ h2 {
 
 h3 {
     margin: 295px 0 0 15px;
-    background-color: #00a000;
-}
-
-h6 {
-    letter-spacing: .092em;
-    margin: -20px  0 0 110px;
-    font-size: 14px;
-    color: red;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
 }
 
 .box1, .box2, .box13, .box4 {
@@ -174,10 +163,6 @@ h6 {
   .caixa20 {
     top: 5730px;
 }
-}
-
-#de {
-    background: #00a000;
 }
 
 #roda {

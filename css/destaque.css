@@ -1,20 +1,34 @@
 @charset "UTF-8";
 
-h1 {
-    background-color: #A61407;
-    margin: 139px 0 0 372px;
+#img1 img {
+    position: absolute;
+    margin: 0 50% 0 50%;
+    top: 95px;
+    left: 67px;
 }
 
 @media (max-width: 1100px) {
-  h1 {
+  #img1 img {
     margin: 0 50% 0 50%;
-    top: 9px;
-    left: -230px;
+    max-width: 220px;
+    top: 95px;
+    left: 0px;
 }
 }
 
+#logo {
+    position: absolute;
+    font-size: 80px;
+    color: white;
+    font-family:  sans-serif;
+    letter-spacing: .092em;
+    font-weight: 500;
+    margin: 0 50% 0 50%;
+    top: 330px;
+    left: -2.4em;
+}
+
 h3 {
-    background-color: #A61407;
     color: white;
     padding: 9px 15px 10px 15px; 
     border-radius: 20px 0 20px 0;
@@ -23,10 +37,11 @@ h3 {
 
 h2 {
     position: relative;
-    font-family: 'Droid Serif', serif;
+    font-family: sans-serif;
     font-size: 42px;
+    font-weight: 500;
+    letter-spacing: .192em;
     color: white;
-    letter-spacing: .082em;
     margin-top: 95px;
 }
 
@@ -36,41 +51,9 @@ h2 {
 }
 }
 
-h6 {
-    letter-spacing: .092em;
-    margin: -20px  0 0 110px;
-    font-size: 14px;
-    color: red;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-}
-
-.texto p {
-    letter-spacing: .092em;
-    margin: -20px  0 0 110px;
-    font-size: 14px;
-    color: red;
-    font-family: 'Fjalla One', sans-serif;
-    font-weight: 500;
-}
-
-.sub {
-    position: absolute;
-    margin: 195px 0 0 220px;   
-}
-
-@media (max-width: 1100px) {
- .sub {
-    margin: 0 50% 0 50%;
-    top: 225px;
-    left: -200px;
-    width: 350px;
-}
-}
-
 .sub2 {
     position: absolute;
-    margin: 1050px 0 0 220px;   
+    margin: 1150px 0 0 220px;   
 }
 
 @media (max-width: 1100px) {
@@ -84,7 +67,7 @@ h6 {
 
 .sub3 {
     position: absolute;
-    margin: 1950px 0 0 220px;   
+    margin: 2050px 0 0 220px;   
 }
 
 @media (max-width: 1100px) {
@@ -96,20 +79,8 @@ h6 {
 }
 }
 
-#dee {
-    background-color: #A61407;
-    margin-top: 312px;
-    position: absolute;
-    width: 400px;
-    height: 7px;
-}
-
-#de {
-    background-color: #A61407;
-}
-
 .caixa01, .caixa02, .caixa03, .caixa04 {
-    top: 400px;
+    top: 470px;
 }
 
 @media (max-width: 1100px) {
@@ -125,7 +96,7 @@ h6 {
 }
 
 .caixa07, .caixa08, .caixa09, .caixa010 {
-    top: 1255px;
+    top: 1355px;
 }
 
 @media (max-width: 1100px) {
@@ -141,7 +112,7 @@ h6 {
 }
 
 .caixa013, .caixa014, .caixa015, .caixa016 {
-    top: 2150px;
+    top: 2250px;
 }
 
 @media (max-width: 1100px) {
@@ -163,12 +134,12 @@ h6 {
 }
 
 #roda {
-    margin-top: 2927px;
+    margin-top: 3042px;
 }
 
 @media (max-width: 1100px) {
   #roda {
-    margin-top: 9450px;
+    margin-top: 9750px;
 }
 }
 

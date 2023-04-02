@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 h1 {
-    background-color: #ffa500;
     margin: 139px 0 0 400px;
 }
 
@@ -25,11 +24,6 @@ h2 {
 
 h3 {
     margin: 295px 0 0 15px;
-    background-color: #FFA500;
-}
-
-#de {
-    background-color: #FFA500;
 }
 
 .box1, .box2, .box13, .box4 {

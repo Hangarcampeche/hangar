@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
 h1 {
-    background-color: #ffa500;
     margin: 139px 0 0 480px;
 }
 
@@ -14,12 +13,7 @@ h1 {
 }
 
 h3 {
-    background-color: #ffa500;
     margin: 295px 0 0 15px;
-}
-
-#de {
-    background-color: #ffa500;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4 {

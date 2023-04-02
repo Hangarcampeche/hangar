@@ -23,7 +23,7 @@ body {
    position: relative;
    width: 100%;
    height: 50px;
-   background-color: #A61407;
+   background-color: #AD8501;
    box-shadow: 0 0 1px  black;
 }
 
@@ -59,7 +59,7 @@ nav li img{
 
 nav li a, nav li #Menu {
     position: relative;
-    left: 400px;
+    left: 350px;
     color: #FFFFFF; 
     display: block;
     letter-spacing: .192em;
@@ -84,6 +84,7 @@ h1 {
     font-family: 'Fjalla One', sans-serif;
     letter-spacing: .092em;
     font-weight: 500;
+    background-color: #AD8501;
 }
 
 @media (max-width: 1100px) {
@@ -102,6 +103,7 @@ h3 {
     padding: 9px 15px 10px 15px; 
     border-radius: 20px 0 20px 0;
     letter-spacing: .042em;
+    background-color: #AD8501;
 }
 
 h4, h5 {
@@ -121,6 +123,15 @@ h5 {
     text-decoration: underline;
     letter-spacing: .142em;
     padding: 0 0 2px 0;
+}
+
+h6 {
+    letter-spacing: .092em;
+    margin: -20px  0 0 110px;
+    font-size: 14px;
+    color: red;
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 500;
 }
 
 .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
@@ -255,6 +266,7 @@ h5 {
     width: 400px;
     height: 7px;
     margin-top: 312px;
+    background-color: #AD8501;
 }
 
 footer {
@@ -262,7 +274,7 @@ footer {
     width: 100%;
     margin: auto;
     height: 275px;
-    background-color: #A61407;
+    background-color: #AD8501;
 }
 
 @media (max-width: 1100px) {
