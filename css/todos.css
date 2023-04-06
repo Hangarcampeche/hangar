@@ -19,6 +19,13 @@ body {
 }
 }
 
+@media (max-width: 1099.9px) {
+  #site {
+    width: 100%;
+    zoom: 100%;
+}
+}
+
 #menu {
    position: relative;
    width: 100%;
