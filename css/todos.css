@@ -19,7 +19,7 @@ body {
 }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 950px) {
   #site {
     width: 100%;
     zoom: 100%;
