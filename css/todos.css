@@ -19,7 +19,7 @@ body {
 }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 970px) {
   #site {
     zoom: 100%;
 }
@@ -27,7 +27,7 @@ body {
 
 @media (max-width: 1010px) {
   body {
-    background-color: blue;
+    background-color: green;
 }
 }
 
