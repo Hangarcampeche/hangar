@@ -48,7 +48,11 @@ h2 {
 }
 
 @media (max-width: 1100px) {
- h2 {
+  h2 {
+    padding: 9px 20px 9px 25px; 
+    border-radius: 27px 0 27px 0;
+    color: white;
+    background-color: #AD8501;
     font-size: 35px;
 }
 }
