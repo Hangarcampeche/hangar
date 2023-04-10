@@ -12,14 +12,14 @@ body {
     margin: -39px auto;
 }
 
-@media (max-width: 975px) {
+@media (max-width: 980px) {
   #site {
     width: 100%;
     zoom: 180%;
 }
 }
 
-@media (max-width: 970px) {
+@media (max-width: 975px) {
   #site {
     zoom: 100%;
 }
@@ -27,7 +27,7 @@ body {
 
 @media (max-width: 1010px) {
   body {
-    background-color: #494949;
+    background-color: blue;
 }
 }
 
