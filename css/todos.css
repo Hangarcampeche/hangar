@@ -19,15 +19,9 @@ body {
 }
 }
 
-@media (max-width: 979px) {
-  #site {
-    zoom: 100%;
-}
-}
-
 @media (max-width: 1010px) {
   body {
-    background-color: #494949;
+    background-color: blue;
 }
 }
 
