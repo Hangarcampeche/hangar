@@ -12,16 +12,22 @@ body {
     margin: -39px auto;
 }
 
-@media (max-width: 1010px) {
+@media (max-width: 1020px) {
   #site {
     width: 100%;
     zoom: 180%;
 }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1010px) {
   #site {
     zoom: 100%;
+}
+}
+
+@media (max-width: 1020px) {
+  body {
+    background-color: blue;
 }
 }
 
