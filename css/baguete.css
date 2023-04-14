@@ -52,7 +52,7 @@ h4 {
 
 @media (max-width: 980px) {
   .caixa4 {
-    top: 1303px;
+    top: 1253px;
 }
 }
 
@@ -68,7 +68,7 @@ h4 {
 
 @media (max-width: 979px) {
   .caixa5 {
-    top: 1375px;
+    top: 1300px;
 }
 }
 
@@ -84,7 +84,7 @@ h4 {
 
 @media (max-width: 979px) {
   .caixa6 {
-    top: 1330px;
+    top: 1280px;
 }
 }
 
@@ -100,7 +100,7 @@ h4 {
 
 @media (max-width: 979px) {
   .caixa7 {
-    top: 2135px;
+    top: 2060px;
 }
 }
 
@@ -115,5 +115,11 @@ h4 {
 @media (max-width: 980px) {
   #roda {
     margin-top: 6340px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+    margin-top: 2760px;
 }
 }
