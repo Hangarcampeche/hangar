@@ -171,8 +171,8 @@ h6 {
 }
 }
 
-@media (max-width: 979px) {
-  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016 {
+@media (max-width: 520px) {
+  .caixa1, .caixa2, .caixa3, .caixa4, .caixa5, .caixa6, .caixa7, .caixa8, .caixa9, .caixa10, .caixa11, .caixa12, .caixa13, .caixa14, .caixa15, .caixa16, .caixa17, .caixa18, .caixa19, .caixa20, .caixa21, .caixa22, .caixa23, .caixa24, .caixa25, .caixa26, .caixa27, .caixa01, .caixa02, .caixa03, .caixa04, .caixa05, .caixa06, .caixa07, .caixa08, .caixa09, .caixa010, .caixa011, .caixa012, .caixa013, .caixa014, .caixa015, .caixa016, .box1, .box2, .box13, .box4 {
     width: 210px;
 }
 }
@@ -208,6 +208,41 @@ h6 {
   .caixa2, .caixa4, .caixa6, .caixa8, .caixa10, .caixa12, .caixa14, .caixa16, .caixa18, .caixa20, .caixa22, .caixa24, .caixa02, .caixa04, .caixa06, .caixa08, .caixa010, .caixa012, .caixa014, .caixa016, .caixa018, .box2, .box4 {
     margin: 0 50% 0 50%;
     left: 0.9em; 
+}
+}
+
+@media (max-width: 979px) {
+  .caixa1, .caixa4, .caixa7, .caixa7, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017, .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -23.3em;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa2, .caixa5, .caixa8, .caixa, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017, .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -7.3em;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa3, .caixa6, .caixa9, .caixa8, .caixa10, .caixa12, .caixa14, .caixa16, .caixa18, .caixa20, .caixa22, .caixa24, .caixa02, .caixa04, .caixa06, .caixa08, .caixa010, .caixa012, .caixa014, .caixa016, .caixa018, .box2, .box4 {
+    margin: 0 50% 0 50%;
+    left: 8.8em; 
+}
+}
+
+@media (max-width: 520px) {
+  .caixa1, .caixa3, .caixa5, .caixa7, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017, .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -13.7em;
+}
+}
+
+@media (max-width: 520px) {
+  .caixa2, .caixa4, .caixa6, .caixa8, .caixa10, .caixa12, .caixa14, .caixa16, .caixa18, .caixa20, .caixa22, .caixa24, .caixa02, .caixa04, .caixa06, .caixa08, .caixa010, .caixa012, .caixa014, .caixa016, .caixa018, .box2, .box4 {
+    margin: 0 50% 0 50%;
+    left: 0.7em; 
 }
 }
 
@@ -374,7 +409,7 @@ footer {
     margin: 0 50% 0 50%;
     top: 7em;
     left: -10em;
-    width: 368px;
+    padding: 2px;
 } 
 }
 
