@@ -80,6 +80,12 @@ h4 {
 }
 }
 
+@media (max-width: 979px) {
+  .caixa4 {
+    top: 1253px;
+}
+}
+
 @media (max-width: 801px) {
   .caixa4 {
     top: 1373px;
