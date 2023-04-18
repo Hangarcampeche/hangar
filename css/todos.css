@@ -231,21 +231,21 @@ h6 {
 /*Posição horizontal das caixas em telas de ate 1100px*/
 
 @media (max-width: 1100px) {
-  .caixa1, .caixa4, .caixa7, .caixa7, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017, .box1, .box13 {
+  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .box1, .box13 {
     margin: 0 50% 0 50%;
     left: -23.3em;
 }
 }
 
 @media (max-width: 1100px) {
-  .caixa2, .caixa5, .caixa8, .caixa9, .caixa11, .caixa13, .caixa15, .caixa17, .caixa19, .caixa21, .caixa13, .caixa25, .caixa11, .caixa01, .caixa03, .caixa05, .caixa07, .caixa09, .caixa011, .caixa013, .caixa015, .caixa017, .box1, .box13 {
+  .caixa2, .caixa5, .caixa8, .caixa11, .caixa14 {
     margin: 0 50% 0 50%;
     left: -7.3em;
 }
 }
 
 @media (max-width: 1100px) {
-  .caixa3, .caixa6, .caixa9, .caixa10, .caixa12, .caixa14, .caixa16, .caixa18, .caixa20, .caixa22, .caixa24, .caixa02, .caixa04, .caixa06, .caixa08, .caixa010, .caixa012, .caixa014, .caixa016, .caixa018, .box2, .box4 {
+  .caixa3, .caixa6, .caixa9, .caixa12, .box2, .box4 {
     margin: 0 50% 0 50%;
     left: 8.8em; 
 }
