@@ -231,7 +231,21 @@ h6 {
 /*Posição horizontal das caixas em telas de ate 1100px*/
 
 @media (max-width: 1100px) {
-  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .caixa16, .box1, .box13 {
+   .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -15.8em;
+}
+}
+
+@media (max-width: 1100px) {
+  .box2, .box4 {
+    margin: 0 50% 0 50%;
+    left: 1.2em;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .caixa16 {
     margin: 0 50% 0 50%;
     left: -23.3em;
 }
@@ -245,7 +259,7 @@ h6 {
 }
 
 @media (max-width: 1100px) {
-  .caixa3, .caixa6, .caixa9, .caixa12,.caixa15, .box2, .box4 {
+  .caixa3, .caixa6, .caixa9, .caixa12,.caixa15 {
     margin: 0 50% 0 50%;
     left: 8.8em; 
 }
@@ -273,7 +287,21 @@ h6 {
 /*Posição horizontal das caixas em telas de ate 979px*/
 
 @media (max-width: 979px) {
-  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .caixa16, .box1, .box13 {
+   .box1, .box13 {
+    margin: 0 50% 0 50%;
+    left: -15.6em;
+}
+}
+
+@media (max-width: 979px) {
+  .box2, .box4 {
+    margin: 0 50% 0 50%;
+    left: 0.9em;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa1, .caixa4, .caixa7, .caixa10, .caixa13, .caixa16 {
     margin: 0 50% 0 50%;
     left: -23.3em;
 }
@@ -287,7 +315,7 @@ h6 {
 }
 
 @media (max-width: 979px) {
-  .caixa3, .caixa6, .caixa9, .caixa12, .caixa15, .box2, .box4 {
+  .caixa3, .caixa6, .caixa9, .caixa12, .caixa15 {
     margin: 0 50% 0 50%;
     left: 8.8em; 
 }
