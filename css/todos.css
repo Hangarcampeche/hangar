@@ -131,9 +131,9 @@ h3 {
     font-size: 20px;
     color: white;
     padding: 9px 15px 10px 15px; 
-    border-radius: 20px 0 20px 0;
+    border-radius: 100px;
     letter-spacing: .042em;
-    background-color: #AD8501;
+    background-color: #494949;
 }
 
 h4, h5 {
@@ -438,7 +438,7 @@ h6 {
     width: 400px;
     height: 7px;
     margin-top: 312px;
-    background-color: #AD8501;
+    background-color: #494949;
 }
 
 footer {
