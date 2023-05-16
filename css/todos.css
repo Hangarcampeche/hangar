@@ -102,7 +102,7 @@ nav li a, nav li #Menu {
 
 h1 {
     position: absolute;
-    top: 125px;
+    top: 135px;
     margin: 0 50% 0 50%;
     font-size: 55px;
     padding: 9px 15px 9px 20px; 
@@ -131,7 +131,7 @@ h3 {
     font-size: 20px;
     color: white;
     padding: 9px 15px 10px 15px; 
-    border-radius: 100px;
+    border-radius: 20px 0 20px 0;
     letter-spacing: .042em;
     background-color: #AD8501;
 }

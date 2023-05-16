@@ -151,8 +151,16 @@ h3 {
 }
 }
 
-.caixa5, .caixa6, .caixa7 {
-    top: 1172px;
+.caixa5 {
+    top: 945px;
+}
+
+.caixa6 {
+    top: 1052px;
+}
+
+.caixa7 {
+    top: 998px;
 }
 
 @media (max-width: 1100px) {
@@ -228,7 +236,7 @@ h3 {
 }
 
 .caixa8 {
-    top: 1200px;
+   top: 1052px;
 }
 
 @media (max-width: 1100px) {
@@ -256,7 +264,7 @@ h3 {
 }
 
 .caixa9 {
-    top:  1922px;
+    top:  1468px;
 }
 
 @media (max-width: 1100px) {
@@ -283,8 +291,16 @@ h3 {
 }
 }
 
-.caixa10, .caixa11, .caixa12 {
-    top:  1870px;
+.caixa10 {
+    top:  1655px;
+}
+
+.caixa11 {
+    top:  1520px;
+}
+
+.caixa12 {
+    top:  1625px;
 }
 
 @media (max-width: 1100px) {
@@ -360,7 +376,7 @@ h3 {
 }
 
 .caixa13 {
-    top: 2650px;
+    top: 1940px;
 }
 
 @media (max-width: 1100px) {
@@ -387,8 +403,12 @@ h3 {
 }
 }
 
-.caixa14, .caixa15 {
-    top: 2593px;
+.caixa14 {
+    top: 2232px;
+}
+
+.caixa15 {
+    top: 2068px;
 }
 
 @media (max-width: 1100px) {
@@ -440,7 +460,7 @@ h3 {
 }
 
 .caixa16 {
-    top: 2567px;
+    top: 2227px;
 }
 
 @media (max-width: 1100px) {
@@ -468,7 +488,7 @@ h3 {
 }
 
 #roda {
-    margin-top: 3415px;
+    margin-top: 2767px;
 }
 
 @media (max-width: 1100px) {
