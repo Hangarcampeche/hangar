@@ -19,7 +19,13 @@ h1 {
     margin: 0 50% 0 50%;
     top: 25px;
     left: -5.5em;
-    width: 320px;
+    width: 220px;
+}
+}
+
+@media (max-width: 979px) {
+  h1 {
+    width: 177px;
 }
 }
 

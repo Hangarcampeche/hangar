@@ -117,20 +117,20 @@ h1 {
 @media (max-width: 1100px) {
   h1 {
     margin: 0 50% 0 50%;
-    font-size: 40px;
-    top: 455px;
+    font-size: 35px;
+    top: 307px;
     left: -200px;
-    border-radius: 27px 0 27px 0;
+    background-color: #494949;
 }
 }
 
-@media (max-width: 979px) {
+@media (max-width: 980px) {
   h1 {
     margin: 0 50% 0 50%;
     font-size: 35px;
-    top: 147px;
-    left: -350px;
-    border-radius: 27px 0 27px 0;
+    top: 307px;
+    left: -200px;
+    background-color: #494949;
 }
 }
 
@@ -356,21 +356,20 @@ h6 {
 }
 
 @media (max-width: 1100px) {
-  #img img, #img1 img {
+   #img img, #img1 img {
     margin: 0 50% 0 50%;
-    max-width: 220px;
-    top: 115px;
-    left: -87px;
-    width: 170px;
-    height: 170px;
+    top: 125px;
+    left: -198px;
+    width: 100px;
+    height: 100px;
 }
 }
 
-@media (max-width: 979px) {
+@media (max-width: 980px) {
   #img img, #img1 img {
     margin: 0 50% 0 50%;
     top: 125px;
-    left: -48px;
+    left: -198px;
     width: 100px;
     height: 100px;
 }
@@ -378,17 +377,17 @@ h6 {
 
 @media (max-width: 1100px) {
   #logo {
-    font-size: 70px;
-    top: 330px;
-    left: -2.4em;
+    font-size: 60px;
+    top: 141px;
+    left: -1.4em;
 }
 }
 
-@media (max-width: 979px) {
+@media (max-width: 980px) {
   #logo {
     font-size: 60px;
     top: 141px;
-    left: 1.4em;
+    left: -1.4em;
 }
 }
 
