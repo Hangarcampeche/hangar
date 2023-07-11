@@ -85,6 +85,7 @@ nav li a, nav li #Menu {
     text-decoration: none;
 }
 
+
 @media (max-width: 980px) {
   nav li a, nav li #Menu {
     left: 105px;
@@ -130,7 +131,7 @@ h1 {
     font-size: 35px;
     top: 307px;
     left: -200px;
-    background-color: #494949;
+    background-color: #AD8501;
 }
 }
 
