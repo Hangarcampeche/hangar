@@ -516,27 +516,27 @@ footer {
 
 #img2 p, #img3 p, #img4 p {
     position: absolute;
-    color: #AD8501;
-    background-color: white;
+    color: white;
     font-family:  sans-serif;
-    letter-spacing: .092em;
+    letter-spacing: .192em;
     font-weight: 500;
+    font-size: 23px;
     margin: 0 50% 0 50%;
-    padding: 10px;
+    text-decoration: underline;
     
 }
 
 #img2 p {
     margin: 0 50% 0 50%;
     top: 210px;
-    left: -182px;
+    left: -235px;
 }
 
 @media (max-width: 980px) {
   #img2 p {
     margin: 0 50% 0 50%;
-    top: 13em;
-    left: -11.6em;
+    top: 9em;
+    left: -11.0em;
 }
 }
 
@@ -549,21 +549,21 @@ footer {
 @media (max-width: 980px) {
   #img3 p {
     margin: 0 50% 0 50%;
-    top: 13em;
-    left: -2.5em;
+    top: 9em;
+    left: -2em;
 }   
 }
 
 #img4 p {
     margin: 0 50% 0 50%;
     top: 210px;
-    left: 75px;
+    left: 95px;
 }
 
 @media (max-width: 980px) {
   #img4 p {
     margin: 0 50% 0 50%;
-    top: 13em;
+    top: 9em;
     left: 3.5em;
 }   
 }
