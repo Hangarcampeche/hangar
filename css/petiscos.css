@@ -14,15 +14,6 @@ h1 {
     left: -7em;
 }
 
-@media (max-width: 1100px) {
-  #titulo {
-    width: 253px;
-    height: 53px;
-    margin: 100px 0 0 30px;
-    background-color: #AD8501;
-}
-}
-
 h2 {
     margin: 2395px 0 0 150px;
 }
