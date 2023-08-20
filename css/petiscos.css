@@ -16,11 +16,10 @@ h1 {
 
 @media (max-width: 1100px) {
   #titulo {
-    width: 240px;
-    height: 45px;
-    margin: 107px 0 0 30px;
+    width: 253px;
+    height: 53px;
+    margin: 100px 0 0 30px;
     background-color: #AD8501;
-    border-radius: 20px 0 20px 0;
 }
 }
 
