@@ -131,11 +131,11 @@ h1 {
 @media (max-width: 980px) {
   h1 {
     margin: 0 50% 0 50%;
-    font-size: 35px;
-    top: 137px;
-    left: -200px;
+    font-size: 45px;
+    top: 107px;
+    left: -250px;
     background-color: #494949;
-    color: #AD8501;
+    color: white;
 
 }
 }
