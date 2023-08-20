@@ -108,14 +108,11 @@ h1 {
     position: absolute;
     top: 135px;
     margin: 0 50% 0 50%;
-    font-size: 55px;
-    padding: 9px 15px 9px 20px; 
-    border-radius: 27px 0 27px 0;
+    font-size: 55px; 
     color: white;
     font-family: sans-serif;
     letter-spacing: .192em;
     font-weight: 500;
-    background-color: #AD8501;
 }
 
 @media (max-width: 1100px) {
@@ -124,7 +121,6 @@ h1 {
     font-size: 35px;
     top: 307px;
     left: -200px;
-    background-color: #494949;
 }
 }
 
@@ -134,7 +130,6 @@ h1 {
     font-size: 45px;
     top: 107px;
     left: -250px;
-    background-color: #494949;
     color: white;
 
 }
