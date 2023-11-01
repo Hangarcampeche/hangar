@@ -72,7 +72,7 @@ nav li {
 }
 
 nav li img{
-    margin: -5px 10px 0 0;
+    margin: -5px 0 0 0;
 }
 
 nav li a, nav li #Menu {
@@ -344,7 +344,7 @@ h4 {
 #img img {
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 135px;
+    top: 120px;
 }
 
 @media (max-width: 1100px) {
@@ -481,14 +481,14 @@ footer {
 #img01 {
     position: absolute;
     margin: 0 50% 0 50%;
-    top: 40px;
-    left: -12.4em;
+    top: 30px;
+    left: -13.4em;
 }
 
 #logo1 {
     font-size: 60px;
     top: 45px;
-    left: -1.6em;
+    left: -1em;
 }
 
 @media (max-width: 980px) {
@@ -529,7 +529,7 @@ footer {
     font-family:  sans-serif;
     letter-spacing: .192em;
     font-weight: 500;
-    font-size: 23px;
+    font-size: 19px;
     margin: 0 50% 0 50%;
     text-decoration: underline;
     
