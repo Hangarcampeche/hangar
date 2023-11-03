@@ -6,12 +6,32 @@
     left: 4em;
 }
 
+@media (max-width: 1100px) {
+  #logo {
+    top: 141px;
+    left: -0.9em;
+}
+}
+
 #img img {
     left: 100px;
 }
 
+@media (max-width: 1100px) {
+   #img img, #img1 img {
+    left: -207px;
+    top: 125px;
+}
+}
+
 h1 {
     left: -6.5em;
+}
+
+@media (max-width: 1100px) {
+  h1 {
+    left: -185px;
+}
 }
 
 @media (max-width: 980px) {
@@ -30,9 +50,57 @@ h3 {
     top: 300px;
 }
 
+@media (max-width: 1100px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 400px;
+}
+}
+
+@media (max-width: 980px) {
+  .caixa1, .caixa2 {
+    top: 550px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa3, .caixa4 {
-    top: 900px;
+    top: 1133px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa1, .caixa2, .caixa3 {
+    top: 550px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa1, .caixa2 {
+    top: 550px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa3 {
+    top: 1150px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa4 {
+    top: 977px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa4 {
+    top: 1127px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa4 {
+    top: 1150px;
 }
 }
 
@@ -40,15 +108,69 @@ h3 {
     top: 872px;
 }
 
+@media (max-width: 1100px) {
+  .caixa5 {
+    top: 977px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa6 {
+    top: 977px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa5, .caixa6 {
-    top: 1525px;
+    top: 1750px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa5 {
+    top: 1127px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa5 {
+    top: 1777px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa6 {
+    top: 1127px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa6 {
+    top: 1777px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa7 {
+    top: 1583px;
 }
 }
 
 @media (max-width: 980px) {
   .caixa7 {
-    top: 2100px;
+    top: 2310px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa7 {
+    top: 1733px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa7 {
+    top: 2350px;
 }
 }
 
@@ -56,9 +178,27 @@ h3 {
     top: 900px;
 }
 
+@media (max-width: 1100px) {
+  .caixa8 {
+    top: 1530px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa8 {
-    top: 2074px;
+    top: 2284px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa8 {
+    top: 1680px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa8 {
+    top: 2325px;
 }
 }
 
@@ -66,9 +206,27 @@ h3 {
     top: 1419px;
 }
 
+@media (max-width: 1100px) {
+  .caixa9 {
+    top: 1505px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa9 {
-    top: 2700px;
+    top: 2895px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa9 {
+    top: 1655px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa9 {
+    top: 2950px;
 }
 }
 
@@ -76,9 +234,27 @@ h3 {
     top: 1392px;
 }
 
+@media (max-width: 1100px) {
+  .caixa10 {
+    top: 2160px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa10 {
-    top: 2700px;
+    top: 2895px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa10 {
+    top: 2310px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa10 {
+    top: 2950px;
 }
 }
 
@@ -86,9 +262,27 @@ h3 {
     top: 1445px;
 }
 
+@media (max-width: 1100px) {
+  .caixa11 {
+    top: 2133px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa11 {
-    top: 3273px;
+    top: 3480px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa11 {
+    top: 2283px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa11 {
+    top: 3527px;
 }
 }
 
@@ -96,9 +290,27 @@ h3 {
     top: 1500px;
 }
 
+@media (max-width: 1100px) {
+  .caixa12 {
+    top: 2083px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa12 {
-    top: 3325px;
+    top: 3507px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa12 {
+    top: 2233px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa12 {
+    top: 3577px;
 }
 }
 
@@ -106,28 +318,78 @@ h3 {
     top: 1968px;
 }
 
+@media (max-width: 1100px) {
+  .caixa13 {
+    top: 2765px;
+}
+}
+
 @media (max-width: 980px) {
   .caixa13 {
-    top: 3848px;
+    top: 4065px;
+}
+}
+
+@media (max-width: 979px) {
+  .caixa13 {
+    top: 2915px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa13 {
+    top: 4102px;
+}
+}
+
+@media (max-width: 1100px) {
+  .caixa14 {
+    top: 2710px;
 }
 }
 
 @media (max-width: 980px) {
   .caixa14 {
-    top: 3899px;
+    top: 4092px;
 }
 }
 
-#sanduba p  {
-    padding-top: 40px;
+@media (max-width: 979px) {
+  .caixa14 {
+    top: 2860px;
+}
+}
+
+@media (max-width: 801px) {
+  .caixa14 {
+    top: 4150px;
+}
 }
 
 #roda {
     margin-top: 2535px;
 }
 
+@media (max-width: 1100px) {
+  #roda {
+    margin-top: 3307px;
+}
+}
+
 @media (max-width: 980px) {
   #roda {
-    margin-top: 4515px;
+    margin-top: 8353px;
+}
+}
+
+@media (max-width: 979px) {
+  #roda {
+    margin-top: 3457px;
+}
+}
+
+@media (max-width: 801px) {
+  #roda {
+    margin-top: 4743px;
 }
 }

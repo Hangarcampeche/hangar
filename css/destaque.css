@@ -7,10 +7,25 @@
     left: -170px;
 }
 
+@media (max-width: 1100px) {
+   #img img, #img1 img {
+    left: -167px;
+    top: 100px;
+}
+}
+
 #logo {
     font-size: 80px;
     top: 310px;
     left: -2.4em;
+}
+
+@media (max-width: 1100px) {
+  #logo {
+    top: 320px;
+    left: -2.3em;
+    font-size: 80px;
+}
 }
 
 h3 {
@@ -28,6 +43,12 @@ h2 {
     letter-spacing: .192em;
     color: white;
     margin-top: 95px;
+}
+
+@media (max-width: 1100px) {
+  h2 {
+    font-size: 60px;
+}
 }
 
 @media (max-width: 980px) {
@@ -50,7 +71,7 @@ h2 {
 
 @media (max-width: 1100px) {
  .sub2 {
-    top: 1900px;
+    top: 1100px;
     left: -200px;
 }
 }
@@ -83,8 +104,8 @@ h2 {
 
 @media (max-width: 1100px) {
  .sub3 {
-    top: 1550px;
-    left: 100px;
+    top: 110px;
+    left: 80px;
 }
 }
 
@@ -140,7 +161,7 @@ h2 {
 
 @media (max-width: 1100px) {
   .caixa4 {
-    top: 1170px;
+    opacity: 0%;
 }
 }
 
@@ -168,13 +189,13 @@ h2 {
 
 @media (max-width: 1100px) {
   .caixa5, .caixa6, .caixa7 {
-    top: 2100px;
+    top: 1300px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa8 {
-    top: 2880px;
+    opacity: 0%;
 }
 }
 
@@ -232,13 +253,13 @@ h2 {
 
 @media (max-width: 1100px) {
   .caixa9, .caixa10, .caixa11 {
-    top: 3770px;
+    top: 2190px;
 }
 }
 
 @media (max-width: 1100px) {
   .caixa12 {
-    top: 4575px;
+    opacity: 0%;
 }
 }
 
@@ -296,7 +317,7 @@ h2 {
 
 @media (max-width: 1100px) {
   #roda {
-    margin-top: 5400px;
+    margin-top: 2855px;
 }
 }
 

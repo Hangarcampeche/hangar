@@ -126,8 +126,8 @@ h1 {
 @media (max-width: 1100px) {
   h1 {
     margin: 0 50% 0 50%;
-    font-size: 35px;
-    top: 307px;
+    font-size: 65px;
+    top: 287px;
 }
 }
 
@@ -137,7 +137,6 @@ h1 {
     font-size: 45px;
     top: 127px;
     color: white;
-
 }
 }
 
@@ -350,10 +349,6 @@ h4 {
 @media (max-width: 1100px) {
    #img img, #img1 img {
     margin: 0 50% 0 50%;
-    top: 125px;
-    left: -204px;
-    width: 100px;
-    height: 100px;
 }
 }
 
@@ -361,14 +356,6 @@ h4 {
    #img img, #img1 img {
     margin: 0 50% 0 50%;
     opacity: 0.1%;
-}
-}
-
-@media (max-width: 1100px) {
-  #logo {
-    font-size: 60px;
-    top: 141px;
-    left: -1.2em;
 }
 }
 
