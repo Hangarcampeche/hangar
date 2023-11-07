@@ -103,7 +103,7 @@ nav li a, nav li #Menu {
 }
 }
 
-#logo, #logo1 {
+#logo, #logo1, #logo2 {
     position: absolute;
     color: white;
     font-family:  sans-serif;
@@ -121,6 +121,7 @@ h1 {
     font-family: sans-serif;
     letter-spacing: .192em;
     font-weight: 500;
+    left: -9em;
 }
 
 @media (max-width: 1100px) {
