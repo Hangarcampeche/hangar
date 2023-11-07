@@ -20,6 +20,10 @@
 }
 }
 
+#faixa {
+  width: 320px;
+}
+
 #img img {
     left: 25px;
 }
