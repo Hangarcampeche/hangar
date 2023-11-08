@@ -12,27 +12,8 @@
     left: 15.2em;
 }
 
-@media (max-width: 1100px) {
-  #logo {
-    top: 141px;
-    left: -0.9em;
-    font-size: 60px;
-}
-}
-
-#faixa {
-  width: 240px;
-}
-
 #img img {
     left: 25px;
-}
-
-@media (max-width: 1100px) {
-   #img img, #img1 img {
-    left: -207px;
-    top: 125px;
-}
 }
 
 @media (max-width: 1100px) {
@@ -275,7 +256,7 @@ h3 {
 
 @media (max-width: 1100px) {
   #roda {
-   margin-top: 2595px;
+   margin-top: 2460px;
 }
 }
 
