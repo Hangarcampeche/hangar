@@ -17,7 +17,13 @@
 #logo {
     font-size: 80px;
     top: 310px;
-    left: -3.4em;
+    left: -3em;
+}
+
+#logo2 {
+    font-size: 50px;
+    top: 340px;
+    left: 2.7em;
 }
 
 @media (max-width: 1100px) {
