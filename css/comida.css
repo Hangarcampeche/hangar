@@ -75,7 +75,7 @@ h3 {
 
 @media (max-width: 980px) {
   .box1, .box2 {
-    top: 290px;
+    top: 360px;
 }
 }
 
@@ -93,7 +93,7 @@ h3 {
 
 @media (max-width: 980px) {
   .box4, .box13 {
-    top: 475px;
+    top: 541px;
 }
 }
 
@@ -113,15 +113,15 @@ h3 {
 }
 }
 
-@media (max-width: 801px) {
+@media (max-width: 980px) {
   .caixa1, .caixa2 {
-    top: 810px;
+    top: 775px;
 }
 }
 
-@media (max-width: 980px) {
+@media (max-width: 801px) {
   .caixa1, .caixa2 {
-    top: 660px;
+    top: 810px;
 }
 }
 
@@ -145,7 +145,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa3, .caixa4 {
-    top: 1235px;
+    top: 1350px;
 }
 }
 
@@ -173,7 +173,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa5 {
-    top: 1839px;
+    top: 1954px;
 }
 }
 
@@ -197,7 +197,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa6 {
-    top: 1839px;
+    top: 1954px;
 }
 }
 
@@ -221,7 +221,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa7 {
-    top: 2467px;
+    top: 2582px;
 }
 }
 
@@ -249,7 +249,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa8 {
-    top: 2442px;
+    top: 2557px;
 }
 }
 
@@ -277,7 +277,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa9 {
-    top: 3042px;
+    top: 3157px;
 }
 }
 
@@ -305,7 +305,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa10 {
-    top: 2992px;
+    top: 3107px;
 }
 }
 
@@ -341,13 +341,13 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa11 {
-    top: 3643px;
+    top: 3758px;
 }
 }
 
 @media (max-width: 980px) {
   .caixa12 {
-    top: 3622px;
+    top: 3737px;
 }
 }
 
@@ -381,7 +381,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa13 {
-    top: 4245px;
+    top: 4360px;
 }
 }
 
@@ -409,7 +409,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa14 {
-    top: 4198px;
+    top: 4313px;
 }
 }
 
@@ -433,7 +433,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa15 {
-    top: 4925px;
+    top: 5040px;
 }
 }
 
@@ -461,7 +461,7 @@ h3 {
 
 @media (max-width: 980px) {
   .caixa16 {
-    top: 4800px;
+    top: 4915px;
 }
 }
 
@@ -489,7 +489,7 @@ h3 {
 
 @media (max-width: 980px) {
   #roda {
-    margin-top: 9950px;
+    margin-top: 10155px;
 }
 }
 
