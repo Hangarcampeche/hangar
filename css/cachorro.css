@@ -68,7 +68,7 @@ h3 {
 
 @media (max-width: 979px) {
   .caixa1, .caixa2, .caixa3 {
-    top: 550px;
+    top: 400px;
 }
 }
 
@@ -98,7 +98,7 @@ h3 {
 
 @media (max-width: 979px) {
   .caixa4 {
-    top: 1275px;
+    top: 995px;
 }
 }
 
@@ -126,7 +126,7 @@ h3 {
 
 @media (max-width: 979px) {
   .caixa5 {
-    top: 1245px;
+    top: 965px;
 }
 }
 
@@ -160,7 +160,7 @@ h3 {
 
 @media (max-width: 979px) {
   .caixa6 {
-    top: 1224px;
+    top: 943px;
 }
 }
 
@@ -182,7 +182,7 @@ h3 {
 
 @media (max-width: 979px) {
   #roda {
-    margin-top: 2072px;
+    margin-top: 1647px;
 }
 }
 
