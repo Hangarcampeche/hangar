@@ -187,12 +187,20 @@ h3 {
     background-color: #DE640B;
 }
 
-h4 {
+h4, h5 {
     position: relative;
     font-family: 'Fjalla One', sans-serif;
     font-weight: 500;
-    margin: 20px  0 0 30px;
-    font-size: 19px;
+    font-size: 17.5px;
+    letter-spacing: .082em;
+}
+
+h4 {
+    margin: 15px  0 0 30px;
+}
+
+h5 {
+    margin: 10px  0 0 30px;
 }
 
 @media (max-width: 980px) {
@@ -501,8 +509,8 @@ h4 {
 
 #buteco p {
     position: relative;
-    margin: 8px 25px 0 25px;
-    font-size: 17.5px;
+    margin: 15px 25px 0 25px;
+    font-size: 16.5px;
     letter-spacing: .055em;
     line-height: 1.50;
     font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
