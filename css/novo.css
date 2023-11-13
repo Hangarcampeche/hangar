@@ -1,5 +1,12 @@
 @charset "UTF-8"; 
 
+body {
+    margin: 0;
+    background-color: #494949;
+    padding: 0;
+    width: 100%;
+}
+
 .slider {
     display: block;
     margin: auto;
